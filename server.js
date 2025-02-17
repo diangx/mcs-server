@@ -44,9 +44,9 @@ wss.on('connection', (ws) => {
 
   // 3초마다 데이터를 클라이언트에게 전송
   const sendMachineData = () => {
-    const machine1Data = getMachineInfo("machine1");
-    const machine2Data = getMachineInfo("machine2");
-    const machine3Data = getMachineInfo("machine3");
+    const machine1Data = getMachineInfo("Counter-Balance Forklift Type AGV");
+    const machine2Data = getMachineInfo("Pallet Truck Type AGV");
+    const machine3Data = getMachineInfo("High-mast Reach Forklift Type AGV");
 
     const payload = {
       machine1: machine1Data,

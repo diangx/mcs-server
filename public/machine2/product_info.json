@@ -1,0 +1,7842 @@
+[
+  {
+    "code": "HW89467A",
+    "date": "2024-01-01",
+    "distance": "117",
+    "est_time": 1445,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15124L",
+    "date": "2024-01-02",
+    "distance": "164",
+    "est_time": 1138,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88528E",
+    "date": "2024-01-02",
+    "distance": "69",
+    "est_time": 1029,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9935S",
+    "date": "2024-01-02",
+    "distance": "117",
+    "est_time": 575,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92680L",
+    "date": "2024-01-03",
+    "distance": "163",
+    "est_time": 977,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85846O",
+    "date": "2024-01-03",
+    "distance": "142",
+    "est_time": 714,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33872W",
+    "date": "2024-01-03",
+    "distance": "138",
+    "est_time": 1303,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3173W",
+    "date": "2024-01-03",
+    "distance": "74",
+    "est_time": 530,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24743S",
+    "date": "2024-01-03",
+    "distance": "111",
+    "est_time": 828,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75991U",
+    "date": "2024-01-04",
+    "distance": "105",
+    "est_time": 1162,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26039Q",
+    "date": "2024-01-05",
+    "distance": "50",
+    "est_time": 862,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83336J",
+    "date": "2024-01-06",
+    "distance": "101",
+    "est_time": 554,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37505H",
+    "date": "2024-01-07",
+    "distance": "177",
+    "est_time": 1034,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99823O",
+    "date": "2024-01-07",
+    "distance": "149",
+    "est_time": 1289,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15608Y",
+    "date": "2024-01-08",
+    "distance": "159",
+    "est_time": 1469,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28739O",
+    "date": "2024-01-08",
+    "distance": "61",
+    "est_time": 1323,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41143Z",
+    "date": "2024-01-08",
+    "distance": "166",
+    "est_time": 1073,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35837D",
+    "date": "2024-01-08",
+    "distance": "73",
+    "est_time": 1193,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77577H",
+    "date": "2024-01-08",
+    "distance": "72",
+    "est_time": 1430,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26098D",
+    "date": "2024-01-09",
+    "distance": "136",
+    "est_time": 1009,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44374A",
+    "date": "2024-01-09",
+    "distance": "69",
+    "est_time": 1256,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64265E",
+    "date": "2024-01-09",
+    "distance": "57",
+    "est_time": 812,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86387V",
+    "date": "2024-01-09",
+    "distance": "72",
+    "est_time": 943,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91002U",
+    "date": "2024-01-09",
+    "distance": "192",
+    "est_time": 684,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24147S",
+    "date": "2024-01-10",
+    "distance": "74",
+    "est_time": 1139,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46595M",
+    "date": "2024-01-10",
+    "distance": "188",
+    "est_time": 1075,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58985B",
+    "date": "2024-01-10",
+    "distance": "88",
+    "est_time": 546,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3535O",
+    "date": "2024-01-10",
+    "distance": "191",
+    "est_time": 1127,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39573O",
+    "date": "2024-01-11",
+    "distance": "185",
+    "est_time": 516,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2201M",
+    "date": "2024-01-11",
+    "distance": "134",
+    "est_time": 1426,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90360S",
+    "date": "2024-01-11",
+    "distance": "138",
+    "est_time": 582,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97291G",
+    "date": "2024-01-12",
+    "distance": "165",
+    "est_time": 776,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56722H",
+    "date": "2024-01-12",
+    "distance": "119",
+    "est_time": 588,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32182O",
+    "date": "2024-01-12",
+    "distance": "166",
+    "est_time": 666,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89504H",
+    "date": "2024-01-12",
+    "distance": "51",
+    "est_time": 1292,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65623E",
+    "date": "2024-01-13",
+    "distance": "164",
+    "est_time": 1338,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95831E",
+    "date": "2024-01-13",
+    "distance": "71",
+    "est_time": 906,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92101Y",
+    "date": "2024-01-13",
+    "distance": "158",
+    "est_time": 891,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61528W",
+    "date": "2024-01-13",
+    "distance": "51",
+    "est_time": 1476,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78710D",
+    "date": "2024-01-13",
+    "distance": "92",
+    "est_time": 1464,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11131V",
+    "date": "2024-01-14",
+    "distance": "106",
+    "est_time": 1314,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26477O",
+    "date": "2024-01-14",
+    "distance": "54",
+    "est_time": 706,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1710W",
+    "date": "2024-01-15",
+    "distance": "117",
+    "est_time": 1498,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67153I",
+    "date": "2024-01-16",
+    "distance": "135",
+    "est_time": 1022,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71094P",
+    "date": "2024-01-16",
+    "distance": "194",
+    "est_time": 804,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6752V",
+    "date": "2024-01-16",
+    "distance": "82",
+    "est_time": 1316,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43752U",
+    "date": "2024-01-16",
+    "distance": "161",
+    "est_time": 968,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97793Y",
+    "date": "2024-01-16",
+    "distance": "178",
+    "est_time": 1240,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54931U",
+    "date": "2024-01-17",
+    "distance": "77",
+    "est_time": 1198,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68841N",
+    "date": "2024-01-18",
+    "distance": "130",
+    "est_time": 1450,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98812V",
+    "date": "2024-01-19",
+    "distance": "91",
+    "est_time": 1469,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39070W",
+    "date": "2024-01-20",
+    "distance": "134",
+    "est_time": 1480,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96373V",
+    "date": "2024-01-21",
+    "distance": "99",
+    "est_time": 584,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7689G",
+    "date": "2024-01-21",
+    "distance": "56",
+    "est_time": 623,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43694G",
+    "date": "2024-01-22",
+    "distance": "130",
+    "est_time": 1161,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93066I",
+    "date": "2024-01-23",
+    "distance": "62",
+    "est_time": 1047,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24234B",
+    "date": "2024-01-23",
+    "distance": "175",
+    "est_time": 1067,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72215K",
+    "date": "2024-01-23",
+    "distance": "155",
+    "est_time": 1172,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59545D",
+    "date": "2024-01-23",
+    "distance": "191",
+    "est_time": 1162,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53390L",
+    "date": "2024-01-23",
+    "distance": "179",
+    "est_time": 1150,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89755S",
+    "date": "2024-01-24",
+    "distance": "170",
+    "est_time": 800,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69850H",
+    "date": "2024-01-24",
+    "distance": "186",
+    "est_time": 1002,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57951E",
+    "date": "2024-01-24",
+    "distance": "184",
+    "est_time": 543,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11067Y",
+    "date": "2024-01-24",
+    "distance": "197",
+    "est_time": 1156,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14089C",
+    "date": "2024-01-24",
+    "distance": "187",
+    "est_time": 1024,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87086D",
+    "date": "2024-01-25",
+    "distance": "100",
+    "est_time": 500,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18261J",
+    "date": "2024-01-25",
+    "distance": "182",
+    "est_time": 1357,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29387C",
+    "date": "2024-01-25",
+    "distance": "89",
+    "est_time": 1384,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11804H",
+    "date": "2024-01-25",
+    "distance": "121",
+    "est_time": 557,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60893F",
+    "date": "2024-01-25",
+    "distance": "193",
+    "est_time": 646,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45256F",
+    "date": "2024-01-26",
+    "distance": "147",
+    "est_time": 1049,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67348V",
+    "date": "2024-01-26",
+    "distance": "144",
+    "est_time": 1340,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81493W",
+    "date": "2024-01-26",
+    "distance": "177",
+    "est_time": 1473,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33207G",
+    "date": "2024-01-26",
+    "distance": "96",
+    "est_time": 1456,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74803B",
+    "date": "2024-01-27",
+    "distance": "137",
+    "est_time": 1433,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53441H",
+    "date": "2024-01-27",
+    "distance": "147",
+    "est_time": 1434,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9534I",
+    "date": "2024-01-28",
+    "distance": "97",
+    "est_time": 1444,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62666Q",
+    "date": "2024-01-28",
+    "distance": "61",
+    "est_time": 1211,
+    "device": "machine2"
+  },
+  {
+    "code": "HW693J",
+    "date": "2024-01-28",
+    "distance": "113",
+    "est_time": 502,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86801T",
+    "date": "2024-01-28",
+    "distance": "116",
+    "est_time": 1388,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26X",
+    "date": "2024-01-29",
+    "distance": "163",
+    "est_time": 1489,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87367T",
+    "date": "2024-01-29",
+    "distance": "69",
+    "est_time": 972,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40693Q",
+    "date": "2024-01-29",
+    "distance": "106",
+    "est_time": 1440,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74430F",
+    "date": "2024-01-29",
+    "distance": "87",
+    "est_time": 577,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60337C",
+    "date": "2024-01-30",
+    "distance": "106",
+    "est_time": 774,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79740E",
+    "date": "2024-01-30",
+    "distance": "189",
+    "est_time": 566,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94117P",
+    "date": "2024-01-31",
+    "distance": "176",
+    "est_time": 1457,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30038O",
+    "date": "2024-02-01",
+    "distance": "104",
+    "est_time": 1333,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84783L",
+    "date": "2024-02-02",
+    "distance": "195",
+    "est_time": 506,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12758D",
+    "date": "2024-02-03",
+    "distance": "82",
+    "est_time": 988,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10420R",
+    "date": "2024-02-03",
+    "distance": "188",
+    "est_time": 922,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31592L",
+    "date": "2024-02-03",
+    "distance": "192",
+    "est_time": 890,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87461B",
+    "date": "2024-02-03",
+    "distance": "198",
+    "est_time": 585,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29790E",
+    "date": "2024-02-04",
+    "distance": "134",
+    "est_time": 1473,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30921Y",
+    "date": "2024-02-04",
+    "distance": "90",
+    "est_time": 555,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88848R",
+    "date": "2024-02-04",
+    "distance": "186",
+    "est_time": 846,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65456Q",
+    "date": "2024-02-04",
+    "distance": "109",
+    "est_time": 800,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12583F",
+    "date": "2024-02-04",
+    "distance": "112",
+    "est_time": 1394,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9354K",
+    "date": "2024-02-05",
+    "distance": "130",
+    "est_time": 883,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32637I",
+    "date": "2024-02-05",
+    "distance": "58",
+    "est_time": 680,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17175C",
+    "date": "2024-02-05",
+    "distance": "77",
+    "est_time": 1349,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97569Q",
+    "date": "2024-02-05",
+    "distance": "129",
+    "est_time": 1035,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98449C",
+    "date": "2024-02-05",
+    "distance": "170",
+    "est_time": 1306,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61347B",
+    "date": "2024-02-06",
+    "distance": "197",
+    "est_time": 1475,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3307I",
+    "date": "2024-02-06",
+    "distance": "62",
+    "est_time": 939,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62271I",
+    "date": "2024-02-06",
+    "distance": "72",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29560E",
+    "date": "2024-02-06",
+    "distance": "137",
+    "est_time": 609,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16366P",
+    "date": "2024-02-06",
+    "distance": "101",
+    "est_time": 1359,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80593K",
+    "date": "2024-02-07",
+    "distance": "193",
+    "est_time": 822,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88639Y",
+    "date": "2024-02-08",
+    "distance": "163",
+    "est_time": 991,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38534V",
+    "date": "2024-02-08",
+    "distance": "133",
+    "est_time": 531,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57536R",
+    "date": "2024-02-08",
+    "distance": "64",
+    "est_time": 715,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16499B",
+    "date": "2024-02-08",
+    "distance": "121",
+    "est_time": 961,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64536F",
+    "date": "2024-02-08",
+    "distance": "186",
+    "est_time": 591,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10156S",
+    "date": "2024-02-09",
+    "distance": "75",
+    "est_time": 698,
+    "device": "machine2"
+  },
+  {
+    "code": "HW47567N",
+    "date": "2024-02-09",
+    "distance": "67",
+    "est_time": 669,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28322N",
+    "date": "2024-02-09",
+    "distance": "60",
+    "est_time": 1299,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93340B",
+    "date": "2024-02-09",
+    "distance": "102",
+    "est_time": 1344,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89934G",
+    "date": "2024-02-09",
+    "distance": "184",
+    "est_time": 744,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51567J",
+    "date": "2024-02-10",
+    "distance": "199",
+    "est_time": 1387,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22698D",
+    "date": "2024-02-11",
+    "distance": "150",
+    "est_time": 707,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37683M",
+    "date": "2024-02-11",
+    "distance": "130",
+    "est_time": 1235,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30877O",
+    "date": "2024-02-11",
+    "distance": "85",
+    "est_time": 531,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96787A",
+    "date": "2024-02-12",
+    "distance": "171",
+    "est_time": 1484,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19748J",
+    "date": "2024-02-12",
+    "distance": "96",
+    "est_time": 770,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85386H",
+    "date": "2024-02-12",
+    "distance": "52",
+    "est_time": 1002,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2374B",
+    "date": "2024-02-13",
+    "distance": "157",
+    "est_time": 1240,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96142Z",
+    "date": "2024-02-13",
+    "distance": "114",
+    "est_time": 754,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17869M",
+    "date": "2024-02-13",
+    "distance": "160",
+    "est_time": 832,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77026B",
+    "date": "2024-02-14",
+    "distance": "191",
+    "est_time": 1008,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35707S",
+    "date": "2024-02-14",
+    "distance": "88",
+    "est_time": 984,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79889O",
+    "date": "2024-02-15",
+    "distance": "115",
+    "est_time": 562,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81413X",
+    "date": "2024-02-16",
+    "distance": "75",
+    "est_time": 1152,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49334X",
+    "date": "2024-02-16",
+    "distance": "173",
+    "est_time": 1373,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45735W",
+    "date": "2024-02-16",
+    "distance": "100",
+    "est_time": 1171,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32886Z",
+    "date": "2024-02-16",
+    "distance": "191",
+    "est_time": 780,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59661I",
+    "date": "2024-02-16",
+    "distance": "191",
+    "est_time": 786,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58168V",
+    "date": "2024-02-17",
+    "distance": "172",
+    "est_time": 769,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88057X",
+    "date": "2024-02-17",
+    "distance": "84",
+    "est_time": 1204,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88927N",
+    "date": "2024-02-17",
+    "distance": "149",
+    "est_time": 530,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24700H",
+    "date": "2024-02-17",
+    "distance": "141",
+    "est_time": 875,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9030A",
+    "date": "2024-02-17",
+    "distance": "138",
+    "est_time": 659,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61328V",
+    "date": "2024-02-18",
+    "distance": "156",
+    "est_time": 1173,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9963Q",
+    "date": "2024-02-18",
+    "distance": "102",
+    "est_time": 710,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30794D",
+    "date": "2024-02-18",
+    "distance": "84",
+    "est_time": 990,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63521C",
+    "date": "2024-02-18",
+    "distance": "199",
+    "est_time": 706,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67465I",
+    "date": "2024-02-18",
+    "distance": "106",
+    "est_time": 1195,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8953T",
+    "date": "2024-02-19",
+    "distance": "161",
+    "est_time": 1179,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82335U",
+    "date": "2024-02-19",
+    "distance": "134",
+    "est_time": 863,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8817B",
+    "date": "2024-02-20",
+    "distance": "166",
+    "est_time": 1470,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44582O",
+    "date": "2024-02-20",
+    "distance": "155",
+    "est_time": 1468,
+    "device": "machine2"
+  },
+  {
+    "code": "HW47339Z",
+    "date": "2024-02-21",
+    "distance": "106",
+    "est_time": 1031,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2974D",
+    "date": "2024-02-21",
+    "distance": "103",
+    "est_time": 1107,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28388S",
+    "date": "2024-02-21",
+    "distance": "197",
+    "est_time": 1105,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94646D",
+    "date": "2024-02-21",
+    "distance": "141",
+    "est_time": 595,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97733S",
+    "date": "2024-02-21",
+    "distance": "110",
+    "est_time": 1128,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1621Y",
+    "date": "2024-02-22",
+    "distance": "118",
+    "est_time": 867,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18907V",
+    "date": "2024-02-22",
+    "distance": "102",
+    "est_time": 1207,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83995H",
+    "date": "2024-02-22",
+    "distance": "100",
+    "est_time": 896,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76293D",
+    "date": "2024-02-22",
+    "distance": "72",
+    "est_time": 1346,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6878Q",
+    "date": "2024-02-23",
+    "distance": "67",
+    "est_time": 783,
+    "device": "machine2"
+  },
+  {
+    "code": "HW48507V",
+    "date": "2024-02-23",
+    "distance": "159",
+    "est_time": 1478,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38206S",
+    "date": "2024-02-23",
+    "distance": "143",
+    "est_time": 908,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51930E",
+    "date": "2024-02-24",
+    "distance": "167",
+    "est_time": 1335,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87045P",
+    "date": "2024-02-24",
+    "distance": "69",
+    "est_time": 1441,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85046S",
+    "date": "2024-02-24",
+    "distance": "152",
+    "est_time": 887,
+    "device": "machine2"
+  },
+  {
+    "code": "HW48218E",
+    "date": "2024-02-25",
+    "distance": "98",
+    "est_time": 894,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56713A",
+    "date": "2024-02-25",
+    "distance": "96",
+    "est_time": 973,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93131E",
+    "date": "2024-02-25",
+    "distance": "128",
+    "est_time": 1166,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96524Q",
+    "date": "2024-02-25",
+    "distance": "90",
+    "est_time": 889,
+    "device": "machine2"
+  },
+  {
+    "code": "HW48404E",
+    "date": "2024-02-26",
+    "distance": "117",
+    "est_time": 1139,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25410I",
+    "date": "2024-02-26",
+    "distance": "101",
+    "est_time": 759,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82836L",
+    "date": "2024-02-26",
+    "distance": "84",
+    "est_time": 1375,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83334T",
+    "date": "2024-02-26",
+    "distance": "124",
+    "est_time": 1424,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41765B",
+    "date": "2024-02-26",
+    "distance": "195",
+    "est_time": 605,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6839Z",
+    "date": "2024-02-27",
+    "distance": "194",
+    "est_time": 629,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59531Y",
+    "date": "2024-02-28",
+    "distance": "121",
+    "est_time": 894,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84913X",
+    "date": "2024-02-29",
+    "distance": "177",
+    "est_time": 565,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58337E",
+    "date": "2024-02-29",
+    "distance": "74",
+    "est_time": 1091,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93028J",
+    "date": "2024-02-29",
+    "distance": "69",
+    "est_time": 1121,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60241P",
+    "date": "2024-03-01",
+    "distance": "79",
+    "est_time": 1075,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98607J",
+    "date": "2024-03-02",
+    "distance": "102",
+    "est_time": 1018,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34573E",
+    "date": "2024-03-02",
+    "distance": "51",
+    "est_time": 1180,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32149R",
+    "date": "2024-03-03",
+    "distance": "78",
+    "est_time": 693,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17570V",
+    "date": "2024-03-03",
+    "distance": "90",
+    "est_time": 1129,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37431P",
+    "date": "2024-03-03",
+    "distance": "65",
+    "est_time": 597,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79553J",
+    "date": "2024-03-03",
+    "distance": "61",
+    "est_time": 1220,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10133I",
+    "date": "2024-03-03",
+    "distance": "127",
+    "est_time": 1188,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26399I",
+    "date": "2024-03-04",
+    "distance": "153",
+    "est_time": 1092,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57653B",
+    "date": "2024-03-04",
+    "distance": "91",
+    "est_time": 623,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82532S",
+    "date": "2024-03-04",
+    "distance": "167",
+    "est_time": 1379,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96184W",
+    "date": "2024-03-04",
+    "distance": "104",
+    "est_time": 506,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15056H",
+    "date": "2024-03-05",
+    "distance": "97",
+    "est_time": 1323,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22775R",
+    "date": "2024-03-05",
+    "distance": "60",
+    "est_time": 1412,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41520I",
+    "date": "2024-03-05",
+    "distance": "50",
+    "est_time": 1204,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74257A",
+    "date": "2024-03-06",
+    "distance": "138",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83017I",
+    "date": "2024-03-06",
+    "distance": "81",
+    "est_time": 820,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56570W",
+    "date": "2024-03-06",
+    "distance": "149",
+    "est_time": 1125,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90996M",
+    "date": "2024-03-07",
+    "distance": "61",
+    "est_time": 1335,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68760B",
+    "date": "2024-03-07",
+    "distance": "185",
+    "est_time": 1194,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37372R",
+    "date": "2024-03-07",
+    "distance": "65",
+    "est_time": 1387,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13554H",
+    "date": "2024-03-07",
+    "distance": "179",
+    "est_time": 653,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72465T",
+    "date": "2024-03-07",
+    "distance": "71",
+    "est_time": 690,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64547Y",
+    "date": "2024-03-08",
+    "distance": "165",
+    "est_time": 1326,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7360C",
+    "date": "2024-03-08",
+    "distance": "74",
+    "est_time": 885,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69201W",
+    "date": "2024-03-08",
+    "distance": "196",
+    "est_time": 940,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77890H",
+    "date": "2024-03-08",
+    "distance": "167",
+    "est_time": 1367,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86675Y",
+    "date": "2024-03-09",
+    "distance": "103",
+    "est_time": 582,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24212E",
+    "date": "2024-03-09",
+    "distance": "184",
+    "est_time": 937,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50329K",
+    "date": "2024-03-09",
+    "distance": "114",
+    "est_time": 1477,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99133F",
+    "date": "2024-03-09",
+    "distance": "154",
+    "est_time": 1005,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26951Y",
+    "date": "2024-03-10",
+    "distance": "79",
+    "est_time": 646,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52678A",
+    "date": "2024-03-10",
+    "distance": "157",
+    "est_time": 815,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57967W",
+    "date": "2024-03-10",
+    "distance": "156",
+    "est_time": 567,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14914W",
+    "date": "2024-03-10",
+    "distance": "98",
+    "est_time": 569,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56066Y",
+    "date": "2024-03-10",
+    "distance": "184",
+    "est_time": 1158,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86568O",
+    "date": "2024-03-11",
+    "distance": "170",
+    "est_time": 1066,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7394A",
+    "date": "2024-03-11",
+    "distance": "152",
+    "est_time": 674,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64219C",
+    "date": "2024-03-12",
+    "distance": "135",
+    "est_time": 721,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83706F",
+    "date": "2024-03-12",
+    "distance": "130",
+    "est_time": 1184,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97281T",
+    "date": "2024-03-12",
+    "distance": "69",
+    "est_time": 1306,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93241Z",
+    "date": "2024-03-13",
+    "distance": "108",
+    "est_time": 1225,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91269R",
+    "date": "2024-03-13",
+    "distance": "50",
+    "est_time": 823,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70697N",
+    "date": "2024-03-13",
+    "distance": "198",
+    "est_time": 1293,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18095L",
+    "date": "2024-03-13",
+    "distance": "139",
+    "est_time": 1305,
+    "device": "machine2"
+  },
+  {
+    "code": "HW190T",
+    "date": "2024-03-13",
+    "distance": "192",
+    "est_time": 1486,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93899X",
+    "date": "2024-03-14",
+    "distance": "70",
+    "est_time": 674,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95689O",
+    "date": "2024-03-14",
+    "distance": "107",
+    "est_time": 1073,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46011R",
+    "date": "2024-03-14",
+    "distance": "152",
+    "est_time": 1348,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97331R",
+    "date": "2024-03-14",
+    "distance": "54",
+    "est_time": 568,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72880Y",
+    "date": "2024-03-14",
+    "distance": "59",
+    "est_time": 964,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93322E",
+    "date": "2024-03-15",
+    "distance": "177",
+    "est_time": 925,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97602T",
+    "date": "2024-03-15",
+    "distance": "54",
+    "est_time": 791,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55770A",
+    "date": "2024-03-15",
+    "distance": "99",
+    "est_time": 920,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8800Z",
+    "date": "2024-03-16",
+    "distance": "79",
+    "est_time": 623,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8486Q",
+    "date": "2024-03-17",
+    "distance": "150",
+    "est_time": 680,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26276I",
+    "date": "2024-03-17",
+    "distance": "65",
+    "est_time": 553,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31359H",
+    "date": "2024-03-17",
+    "distance": "74",
+    "est_time": 611,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88641X",
+    "date": "2024-03-18",
+    "distance": "146",
+    "est_time": 929,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31970M",
+    "date": "2024-03-19",
+    "distance": "172",
+    "est_time": 1468,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2964I",
+    "date": "2024-03-19",
+    "distance": "99",
+    "est_time": 1154,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89335R",
+    "date": "2024-03-19",
+    "distance": "170",
+    "est_time": 1034,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14978X",
+    "date": "2024-03-19",
+    "distance": "119",
+    "est_time": 1412,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26107I",
+    "date": "2024-03-19",
+    "distance": "185",
+    "est_time": 887,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52027B",
+    "date": "2024-03-20",
+    "distance": "54",
+    "est_time": 799,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22863P",
+    "date": "2024-03-20",
+    "distance": "165",
+    "est_time": 890,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43386G",
+    "date": "2024-03-20",
+    "distance": "96",
+    "est_time": 732,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31776Z",
+    "date": "2024-03-20",
+    "distance": "146",
+    "est_time": 581,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71793C",
+    "date": "2024-03-21",
+    "distance": "71",
+    "est_time": 1376,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4538E",
+    "date": "2024-03-21",
+    "distance": "74",
+    "est_time": 502,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82122J",
+    "date": "2024-03-21",
+    "distance": "173",
+    "est_time": 1280,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76384R",
+    "date": "2024-03-21",
+    "distance": "72",
+    "est_time": 626,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34179G",
+    "date": "2024-03-22",
+    "distance": "58",
+    "est_time": 1381,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5259K",
+    "date": "2024-03-22",
+    "distance": "101",
+    "est_time": 780,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62149C",
+    "date": "2024-03-22",
+    "distance": "185",
+    "est_time": 584,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13642G",
+    "date": "2024-03-22",
+    "distance": "80",
+    "est_time": 1028,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32400M",
+    "date": "2024-03-23",
+    "distance": "100",
+    "est_time": 848,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15123S",
+    "date": "2024-03-23",
+    "distance": "89",
+    "est_time": 1032,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82466S",
+    "date": "2024-03-23",
+    "distance": "155",
+    "est_time": 1077,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49734T",
+    "date": "2024-03-23",
+    "distance": "179",
+    "est_time": 1273,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92847J",
+    "date": "2024-03-23",
+    "distance": "51",
+    "est_time": 932,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84662Y",
+    "date": "2024-03-24",
+    "distance": "180",
+    "est_time": 1013,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63124R",
+    "date": "2024-03-24",
+    "distance": "90",
+    "est_time": 1411,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70130R",
+    "date": "2024-03-25",
+    "distance": "198",
+    "est_time": 567,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62484E",
+    "date": "2024-03-25",
+    "distance": "116",
+    "est_time": 661,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8392T",
+    "date": "2024-03-25",
+    "distance": "59",
+    "est_time": 905,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92836K",
+    "date": "2024-03-26",
+    "distance": "185",
+    "est_time": 730,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71717C",
+    "date": "2024-03-26",
+    "distance": "199",
+    "est_time": 687,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36971C",
+    "date": "2024-03-26",
+    "distance": "82",
+    "est_time": 720,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69418W",
+    "date": "2024-03-26",
+    "distance": "132",
+    "est_time": 1240,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16529C",
+    "date": "2024-03-26",
+    "distance": "158",
+    "est_time": 1482,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57482T",
+    "date": "2024-03-27",
+    "distance": "82",
+    "est_time": 1052,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43111L",
+    "date": "2024-03-27",
+    "distance": "110",
+    "est_time": 798,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8843X",
+    "date": "2024-03-27",
+    "distance": "170",
+    "est_time": 795,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18534E",
+    "date": "2024-03-27",
+    "distance": "59",
+    "est_time": 993,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71676H",
+    "date": "2024-03-28",
+    "distance": "55",
+    "est_time": 769,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78669P",
+    "date": "2024-03-28",
+    "distance": "126",
+    "est_time": 683,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83351L",
+    "date": "2024-03-28",
+    "distance": "159",
+    "est_time": 1286,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36195Y",
+    "date": "2024-03-28",
+    "distance": "172",
+    "est_time": 1206,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18542D",
+    "date": "2024-03-29",
+    "distance": "120",
+    "est_time": 759,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60994K",
+    "date": "2024-03-29",
+    "distance": "70",
+    "est_time": 912,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31550Z",
+    "date": "2024-03-30",
+    "distance": "186",
+    "est_time": 954,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38819R",
+    "date": "2024-03-30",
+    "distance": "91",
+    "est_time": 923,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6016K",
+    "date": "2024-03-31",
+    "distance": "91",
+    "est_time": 1059,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45088Y",
+    "date": "2024-03-31",
+    "distance": "187",
+    "est_time": 678,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93149K",
+    "date": "2024-03-31",
+    "distance": "67",
+    "est_time": 790,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56876W",
+    "date": "2024-03-31",
+    "distance": "73",
+    "est_time": 563,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78431M",
+    "date": "2024-04-01",
+    "distance": "77",
+    "est_time": 1446,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3836I",
+    "date": "2024-04-01",
+    "distance": "133",
+    "est_time": 1433,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9593G",
+    "date": "2024-04-01",
+    "distance": "110",
+    "est_time": 1024,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6571Z",
+    "date": "2024-04-02",
+    "distance": "52",
+    "est_time": 886,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46859E",
+    "date": "2024-04-02",
+    "distance": "66",
+    "est_time": 1306,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57459J",
+    "date": "2024-04-03",
+    "distance": "180",
+    "est_time": 716,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37104A",
+    "date": "2024-04-03",
+    "distance": "104",
+    "est_time": 916,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75393G",
+    "date": "2024-04-03",
+    "distance": "142",
+    "est_time": 974,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72074W",
+    "date": "2024-04-03",
+    "distance": "155",
+    "est_time": 1284,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12799A",
+    "date": "2024-04-03",
+    "distance": "165",
+    "est_time": 1098,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76792N",
+    "date": "2024-04-04",
+    "distance": "177",
+    "est_time": 855,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37179I",
+    "date": "2024-04-04",
+    "distance": "184",
+    "est_time": 926,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66313Y",
+    "date": "2024-04-04",
+    "distance": "90",
+    "est_time": 548,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45797V",
+    "date": "2024-04-04",
+    "distance": "180",
+    "est_time": 1074,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52798I",
+    "date": "2024-04-04",
+    "distance": "130",
+    "est_time": 1250,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26009E",
+    "date": "2024-04-05",
+    "distance": "61",
+    "est_time": 1246,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4638W",
+    "date": "2024-04-05",
+    "distance": "58",
+    "est_time": 608,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18851H",
+    "date": "2024-04-05",
+    "distance": "163",
+    "est_time": 1338,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31819Z",
+    "date": "2024-04-06",
+    "distance": "120",
+    "est_time": 650,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61787C",
+    "date": "2024-04-06",
+    "distance": "141",
+    "est_time": 1368,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71077U",
+    "date": "2024-04-07",
+    "distance": "195",
+    "est_time": 915,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49759B",
+    "date": "2024-04-07",
+    "distance": "138",
+    "est_time": 939,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26252I",
+    "date": "2024-04-08",
+    "distance": "191",
+    "est_time": 672,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7623X",
+    "date": "2024-04-08",
+    "distance": "113",
+    "est_time": 698,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49696K",
+    "date": "2024-04-08",
+    "distance": "90",
+    "est_time": 767,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23841R",
+    "date": "2024-04-08",
+    "distance": "186",
+    "est_time": 897,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64293N",
+    "date": "2024-04-08",
+    "distance": "128",
+    "est_time": 1447,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66462A",
+    "date": "2024-04-09",
+    "distance": "111",
+    "est_time": 718,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58543Q",
+    "date": "2024-04-09",
+    "distance": "171",
+    "est_time": 735,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91182U",
+    "date": "2024-04-09",
+    "distance": "117",
+    "est_time": 1249,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32649R",
+    "date": "2024-04-10",
+    "distance": "148",
+    "est_time": 722,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6350P",
+    "date": "2024-04-10",
+    "distance": "90",
+    "est_time": 1303,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36385N",
+    "date": "2024-04-11",
+    "distance": "173",
+    "est_time": 641,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19824J",
+    "date": "2024-04-11",
+    "distance": "95",
+    "est_time": 1177,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58297I",
+    "date": "2024-04-11",
+    "distance": "64",
+    "est_time": 728,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34124Q",
+    "date": "2024-04-11",
+    "distance": "126",
+    "est_time": 1005,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61482O",
+    "date": "2024-04-11",
+    "distance": "96",
+    "est_time": 608,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2023R",
+    "date": "2024-04-12",
+    "distance": "111",
+    "est_time": 1264,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82105O",
+    "date": "2024-04-12",
+    "distance": "115",
+    "est_time": 1283,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51793F",
+    "date": "2024-04-12",
+    "distance": "152",
+    "est_time": 1271,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57061G",
+    "date": "2024-04-12",
+    "distance": "109",
+    "est_time": 1293,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23664X",
+    "date": "2024-04-13",
+    "distance": "181",
+    "est_time": 1301,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96594H",
+    "date": "2024-04-13",
+    "distance": "82",
+    "est_time": 1202,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61773Y",
+    "date": "2024-04-13",
+    "distance": "128",
+    "est_time": 674,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75260H",
+    "date": "2024-04-13",
+    "distance": "175",
+    "est_time": 1143,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97553X",
+    "date": "2024-04-13",
+    "distance": "144",
+    "est_time": 1205,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72642U",
+    "date": "2024-04-14",
+    "distance": "86",
+    "est_time": 1125,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11613P",
+    "date": "2024-04-14",
+    "distance": "179",
+    "est_time": 1270,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64498W",
+    "date": "2024-04-14",
+    "distance": "73",
+    "est_time": 692,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27899V",
+    "date": "2024-04-14",
+    "distance": "173",
+    "est_time": 763,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70964C",
+    "date": "2024-04-15",
+    "distance": "174",
+    "est_time": 676,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58522V",
+    "date": "2024-04-15",
+    "distance": "169",
+    "est_time": 1028,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86123Y",
+    "date": "2024-04-15",
+    "distance": "122",
+    "est_time": 1041,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89008D",
+    "date": "2024-04-15",
+    "distance": "182",
+    "est_time": 1340,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52548O",
+    "date": "2024-04-15",
+    "distance": "155",
+    "est_time": 933,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38753V",
+    "date": "2024-04-16",
+    "distance": "174",
+    "est_time": 1237,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49265Z",
+    "date": "2024-04-16",
+    "distance": "123",
+    "est_time": 1239,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91480N",
+    "date": "2024-04-17",
+    "distance": "78",
+    "est_time": 1009,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25547K",
+    "date": "2024-04-17",
+    "distance": "92",
+    "est_time": 593,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53832P",
+    "date": "2024-04-17",
+    "distance": "70",
+    "est_time": 1030,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99271P",
+    "date": "2024-04-17",
+    "distance": "149",
+    "est_time": 1105,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41219H",
+    "date": "2024-04-18",
+    "distance": "142",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45957U",
+    "date": "2024-04-18",
+    "distance": "56",
+    "est_time": 707,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27711J",
+    "date": "2024-04-18",
+    "distance": "119",
+    "est_time": 515,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19186O",
+    "date": "2024-04-19",
+    "distance": "180",
+    "est_time": 1277,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73996M",
+    "date": "2024-04-19",
+    "distance": "72",
+    "est_time": 1237,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41568E",
+    "date": "2024-04-19",
+    "distance": "160",
+    "est_time": 1177,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66822U",
+    "date": "2024-04-20",
+    "distance": "172",
+    "est_time": 853,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8571J",
+    "date": "2024-04-20",
+    "distance": "84",
+    "est_time": 1351,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81197Q",
+    "date": "2024-04-20",
+    "distance": "110",
+    "est_time": 1020,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16652T",
+    "date": "2024-04-20",
+    "distance": "55",
+    "est_time": 929,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95089M",
+    "date": "2024-04-20",
+    "distance": "199",
+    "est_time": 889,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69931M",
+    "date": "2024-04-21",
+    "distance": "107",
+    "est_time": 521,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20045Q",
+    "date": "2024-04-22",
+    "distance": "161",
+    "est_time": 1004,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86360B",
+    "date": "2024-04-22",
+    "distance": "60",
+    "est_time": 932,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78735W",
+    "date": "2024-04-22",
+    "distance": "136",
+    "est_time": 562,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5207N",
+    "date": "2024-04-23",
+    "distance": "111",
+    "est_time": 799,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88425F",
+    "date": "2024-04-24",
+    "distance": "115",
+    "est_time": 1116,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38631J",
+    "date": "2024-04-24",
+    "distance": "190",
+    "est_time": 1083,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94666S",
+    "date": "2024-04-24",
+    "distance": "77",
+    "est_time": 679,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4366D",
+    "date": "2024-04-24",
+    "distance": "180",
+    "est_time": 947,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34970D",
+    "date": "2024-04-24",
+    "distance": "148",
+    "est_time": 839,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16094Z",
+    "date": "2024-04-25",
+    "distance": "165",
+    "est_time": 632,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17858H",
+    "date": "2024-04-25",
+    "distance": "187",
+    "est_time": 962,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33453Q",
+    "date": "2024-04-25",
+    "distance": "73",
+    "est_time": 997,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21263N",
+    "date": "2024-04-25",
+    "distance": "59",
+    "est_time": 650,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94910D",
+    "date": "2024-04-25",
+    "distance": "189",
+    "est_time": 578,
+    "device": "machine2"
+  },
+  {
+    "code": "HW47532W",
+    "date": "2024-04-26",
+    "distance": "77",
+    "est_time": 1186,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36267A",
+    "date": "2024-04-26",
+    "distance": "119",
+    "est_time": 1144,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7170C",
+    "date": "2024-04-26",
+    "distance": "155",
+    "est_time": 1085,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36944C",
+    "date": "2024-04-26",
+    "distance": "198",
+    "est_time": 1101,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43984L",
+    "date": "2024-04-26",
+    "distance": "135",
+    "est_time": 987,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10591E",
+    "date": "2024-04-27",
+    "distance": "72",
+    "est_time": 576,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96321L",
+    "date": "2024-04-27",
+    "distance": "98",
+    "est_time": 1459,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95869H",
+    "date": "2024-04-27",
+    "distance": "187",
+    "est_time": 1232,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86100P",
+    "date": "2024-04-27",
+    "distance": "198",
+    "est_time": 837,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67091A",
+    "date": "2024-04-28",
+    "distance": "193",
+    "est_time": 1338,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5768H",
+    "date": "2024-04-28",
+    "distance": "144",
+    "est_time": 1430,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17778H",
+    "date": "2024-04-28",
+    "distance": "128",
+    "est_time": 689,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54285K",
+    "date": "2024-04-28",
+    "distance": "112",
+    "est_time": 999,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49949U",
+    "date": "2024-04-29",
+    "distance": "191",
+    "est_time": 1160,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60926N",
+    "date": "2024-04-29",
+    "distance": "53",
+    "est_time": 1163,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55958V",
+    "date": "2024-04-29",
+    "distance": "142",
+    "est_time": 1063,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5628U",
+    "date": "2024-04-30",
+    "distance": "176",
+    "est_time": 585,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86461B",
+    "date": "2024-05-01",
+    "distance": "180",
+    "est_time": 677,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92981X",
+    "date": "2024-05-01",
+    "distance": "182",
+    "est_time": 1047,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68031Z",
+    "date": "2024-05-01",
+    "distance": "153",
+    "est_time": 644,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16508H",
+    "date": "2024-05-01",
+    "distance": "98",
+    "est_time": 1355,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37049Y",
+    "date": "2024-05-02",
+    "distance": "126",
+    "est_time": 1397,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68097D",
+    "date": "2024-05-02",
+    "distance": "130",
+    "est_time": 628,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54876C",
+    "date": "2024-05-02",
+    "distance": "126",
+    "est_time": 1244,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18579P",
+    "date": "2024-05-02",
+    "distance": "173",
+    "est_time": 1039,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60200R",
+    "date": "2024-05-03",
+    "distance": "166",
+    "est_time": 636,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80852V",
+    "date": "2024-05-03",
+    "distance": "194",
+    "est_time": 699,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6558U",
+    "date": "2024-05-03",
+    "distance": "138",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97719L",
+    "date": "2024-05-04",
+    "distance": "68",
+    "est_time": 679,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74911Y",
+    "date": "2024-05-04",
+    "distance": "84",
+    "est_time": 961,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38721B",
+    "date": "2024-05-04",
+    "distance": "192",
+    "est_time": 505,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73415Z",
+    "date": "2024-05-04",
+    "distance": "159",
+    "est_time": 744,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59248B",
+    "date": "2024-05-05",
+    "distance": "186",
+    "est_time": 617,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43524U",
+    "date": "2024-05-06",
+    "distance": "84",
+    "est_time": 542,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96840B",
+    "date": "2024-05-06",
+    "distance": "144",
+    "est_time": 621,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20668P",
+    "date": "2024-05-06",
+    "distance": "136",
+    "est_time": 1254,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72309A",
+    "date": "2024-05-06",
+    "distance": "80",
+    "est_time": 998,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69198H",
+    "date": "2024-05-07",
+    "distance": "55",
+    "est_time": 825,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84419H",
+    "date": "2024-05-07",
+    "distance": "146",
+    "est_time": 1289,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83522X",
+    "date": "2024-05-08",
+    "distance": "141",
+    "est_time": 587,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76135M",
+    "date": "2024-05-08",
+    "distance": "75",
+    "est_time": 1210,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22010P",
+    "date": "2024-05-08",
+    "distance": "135",
+    "est_time": 640,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73343G",
+    "date": "2024-05-08",
+    "distance": "152",
+    "est_time": 662,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30418M",
+    "date": "2024-05-08",
+    "distance": "146",
+    "est_time": 867,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60891Z",
+    "date": "2024-05-09",
+    "distance": "151",
+    "est_time": 1338,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61333Z",
+    "date": "2024-05-09",
+    "distance": "188",
+    "est_time": 1390,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46152I",
+    "date": "2024-05-10",
+    "distance": "85",
+    "est_time": 748,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79661X",
+    "date": "2024-05-10",
+    "distance": "129",
+    "est_time": 820,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50519V",
+    "date": "2024-05-10",
+    "distance": "147",
+    "est_time": 1149,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29467T",
+    "date": "2024-05-11",
+    "distance": "124",
+    "est_time": 1377,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66920O",
+    "date": "2024-05-12",
+    "distance": "101",
+    "est_time": 883,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95503L",
+    "date": "2024-05-13",
+    "distance": "166",
+    "est_time": 800,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27669S",
+    "date": "2024-05-13",
+    "distance": "99",
+    "est_time": 1371,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2115I",
+    "date": "2024-05-13",
+    "distance": "104",
+    "est_time": 806,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9010Q",
+    "date": "2024-05-14",
+    "distance": "111",
+    "est_time": 750,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63899W",
+    "date": "2024-05-14",
+    "distance": "63",
+    "est_time": 1055,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92985E",
+    "date": "2024-05-14",
+    "distance": "77",
+    "est_time": 1159,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14898R",
+    "date": "2024-05-15",
+    "distance": "104",
+    "est_time": 1214,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94877Q",
+    "date": "2024-05-15",
+    "distance": "100",
+    "est_time": 1361,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92138E",
+    "date": "2024-05-16",
+    "distance": "94",
+    "est_time": 945,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88119O",
+    "date": "2024-05-16",
+    "distance": "185",
+    "est_time": 664,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38693T",
+    "date": "2024-05-17",
+    "distance": "84",
+    "est_time": 946,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77643R",
+    "date": "2024-05-18",
+    "distance": "145",
+    "est_time": 1075,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14857R",
+    "date": "2024-05-18",
+    "distance": "86",
+    "est_time": 1257,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98729Q",
+    "date": "2024-05-18",
+    "distance": "103",
+    "est_time": 1401,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38918N",
+    "date": "2024-05-19",
+    "distance": "169",
+    "est_time": 673,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79710P",
+    "date": "2024-05-20",
+    "distance": "53",
+    "est_time": 579,
+    "device": "machine2"
+  },
+  {
+    "code": "HW645A",
+    "date": "2024-05-20",
+    "distance": "154",
+    "est_time": 629,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84760E",
+    "date": "2024-05-20",
+    "distance": "85",
+    "est_time": 1222,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96707V",
+    "date": "2024-05-20",
+    "distance": "88",
+    "est_time": 1115,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33404I",
+    "date": "2024-05-20",
+    "distance": "126",
+    "est_time": 1299,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92618S",
+    "date": "2024-05-21",
+    "distance": "170",
+    "est_time": 826,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10213K",
+    "date": "2024-05-21",
+    "distance": "135",
+    "est_time": 690,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92154B",
+    "date": "2024-05-21",
+    "distance": "186",
+    "est_time": 1229,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81014X",
+    "date": "2024-05-21",
+    "distance": "167",
+    "est_time": 858,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38024N",
+    "date": "2024-05-22",
+    "distance": "112",
+    "est_time": 918,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34101E",
+    "date": "2024-05-22",
+    "distance": "136",
+    "est_time": 1086,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8013K",
+    "date": "2024-05-22",
+    "distance": "199",
+    "est_time": 946,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56283F",
+    "date": "2024-05-22",
+    "distance": "157",
+    "est_time": 769,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74655G",
+    "date": "2024-05-23",
+    "distance": "176",
+    "est_time": 1161,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91334X",
+    "date": "2024-05-24",
+    "distance": "133",
+    "est_time": 976,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13368L",
+    "date": "2024-05-24",
+    "distance": "50",
+    "est_time": 504,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16647T",
+    "date": "2024-05-24",
+    "distance": "129",
+    "est_time": 808,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46347X",
+    "date": "2024-05-24",
+    "distance": "135",
+    "est_time": 945,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61532G",
+    "date": "2024-05-24",
+    "distance": "103",
+    "est_time": 1321,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89011H",
+    "date": "2024-05-25",
+    "distance": "138",
+    "est_time": 1343,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17166C",
+    "date": "2024-05-25",
+    "distance": "151",
+    "est_time": 1010,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60797L",
+    "date": "2024-05-25",
+    "distance": "154",
+    "est_time": 1400,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91776A",
+    "date": "2024-05-26",
+    "distance": "81",
+    "est_time": 608,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21167F",
+    "date": "2024-05-27",
+    "distance": "70",
+    "est_time": 1175,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46643P",
+    "date": "2024-05-27",
+    "distance": "141",
+    "est_time": 665,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26172P",
+    "date": "2024-05-28",
+    "distance": "186",
+    "est_time": 1180,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58292X",
+    "date": "2024-05-28",
+    "distance": "107",
+    "est_time": 800,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63590O",
+    "date": "2024-05-28",
+    "distance": "111",
+    "est_time": 1162,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61497K",
+    "date": "2024-05-28",
+    "distance": "64",
+    "est_time": 926,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81673I",
+    "date": "2024-05-29",
+    "distance": "101",
+    "est_time": 546,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3754O",
+    "date": "2024-05-30",
+    "distance": "97",
+    "est_time": 1025,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19650B",
+    "date": "2024-05-31",
+    "distance": "140",
+    "est_time": 967,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93035A",
+    "date": "2024-05-31",
+    "distance": "173",
+    "est_time": 564,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63444M",
+    "date": "2024-05-31",
+    "distance": "143",
+    "est_time": 879,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18038K",
+    "date": "2024-05-31",
+    "distance": "76",
+    "est_time": 1171,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36400L",
+    "date": "2024-05-31",
+    "distance": "52",
+    "est_time": 1461,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49061R",
+    "date": "2024-06-01",
+    "distance": "160",
+    "est_time": 1431,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13349D",
+    "date": "2024-06-01",
+    "distance": "110",
+    "est_time": 584,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43016P",
+    "date": "2024-06-01",
+    "distance": "147",
+    "est_time": 1153,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1634B",
+    "date": "2024-06-01",
+    "distance": "130",
+    "est_time": 1266,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87418J",
+    "date": "2024-06-02",
+    "distance": "148",
+    "est_time": 984,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6716O",
+    "date": "2024-06-02",
+    "distance": "176",
+    "est_time": 840,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70878Z",
+    "date": "2024-06-02",
+    "distance": "56",
+    "est_time": 1462,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73517A",
+    "date": "2024-06-02",
+    "distance": "139",
+    "est_time": 615,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24283J",
+    "date": "2024-06-02",
+    "distance": "85",
+    "est_time": 528,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68884V",
+    "date": "2024-06-03",
+    "distance": "148",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34412G",
+    "date": "2024-06-03",
+    "distance": "116",
+    "est_time": 650,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35476K",
+    "date": "2024-06-03",
+    "distance": "140",
+    "est_time": 1061,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98640A",
+    "date": "2024-06-03",
+    "distance": "103",
+    "est_time": 566,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19596Y",
+    "date": "2024-06-04",
+    "distance": "115",
+    "est_time": 1371,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96644S",
+    "date": "2024-06-04",
+    "distance": "148",
+    "est_time": 1032,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88201K",
+    "date": "2024-06-04",
+    "distance": "120",
+    "est_time": 1233,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5729O",
+    "date": "2024-06-04",
+    "distance": "101",
+    "est_time": 1199,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65763O",
+    "date": "2024-06-05",
+    "distance": "183",
+    "est_time": 946,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92521B",
+    "date": "2024-06-05",
+    "distance": "99",
+    "est_time": 823,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30647Q",
+    "date": "2024-06-05",
+    "distance": "161",
+    "est_time": 1166,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80467E",
+    "date": "2024-06-05",
+    "distance": "76",
+    "est_time": 791,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21521O",
+    "date": "2024-06-06",
+    "distance": "51",
+    "est_time": 1156,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78042T",
+    "date": "2024-06-07",
+    "distance": "115",
+    "est_time": 931,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12350I",
+    "date": "2024-06-07",
+    "distance": "107",
+    "est_time": 1250,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40163K",
+    "date": "2024-06-08",
+    "distance": "83",
+    "est_time": 508,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37591S",
+    "date": "2024-06-08",
+    "distance": "128",
+    "est_time": 1127,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19357X",
+    "date": "2024-06-08",
+    "distance": "177",
+    "est_time": 1498,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88262D",
+    "date": "2024-06-08",
+    "distance": "146",
+    "est_time": 552,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56875S",
+    "date": "2024-06-09",
+    "distance": "103",
+    "est_time": 813,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89079P",
+    "date": "2024-06-10",
+    "distance": "171",
+    "est_time": 991,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87331I",
+    "date": "2024-06-10",
+    "distance": "80",
+    "est_time": 899,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9126T",
+    "date": "2024-06-10",
+    "distance": "138",
+    "est_time": 1258,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27900Z",
+    "date": "2024-06-10",
+    "distance": "82",
+    "est_time": 615,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44610N",
+    "date": "2024-06-10",
+    "distance": "163",
+    "est_time": 1434,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8776L",
+    "date": "2024-06-11",
+    "distance": "186",
+    "est_time": 897,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80234X",
+    "date": "2024-06-11",
+    "distance": "84",
+    "est_time": 1338,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91860K",
+    "date": "2024-06-11",
+    "distance": "179",
+    "est_time": 921,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94076I",
+    "date": "2024-06-11",
+    "distance": "137",
+    "est_time": 1330,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86151X",
+    "date": "2024-06-11",
+    "distance": "165",
+    "est_time": 910,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76968O",
+    "date": "2024-06-12",
+    "distance": "81",
+    "est_time": 986,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75824H",
+    "date": "2024-06-12",
+    "distance": "80",
+    "est_time": 1449,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85052C",
+    "date": "2024-06-12",
+    "distance": "64",
+    "est_time": 552,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79328H",
+    "date": "2024-06-12",
+    "distance": "180",
+    "est_time": 1388,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88579U",
+    "date": "2024-06-12",
+    "distance": "78",
+    "est_time": 1342,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53053C",
+    "date": "2024-06-13",
+    "distance": "158",
+    "est_time": 584,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75739X",
+    "date": "2024-06-13",
+    "distance": "138",
+    "est_time": 601,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8765B",
+    "date": "2024-06-13",
+    "distance": "56",
+    "est_time": 1447,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50264K",
+    "date": "2024-06-13",
+    "distance": "140",
+    "est_time": 875,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3561Y",
+    "date": "2024-06-13",
+    "distance": "183",
+    "est_time": 1015,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6498Y",
+    "date": "2024-06-14",
+    "distance": "187",
+    "est_time": 1162,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51269F",
+    "date": "2024-06-14",
+    "distance": "81",
+    "est_time": 1353,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13851M",
+    "date": "2024-06-14",
+    "distance": "120",
+    "est_time": 698,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21711R",
+    "date": "2024-06-14",
+    "distance": "155",
+    "est_time": 901,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16913W",
+    "date": "2024-06-14",
+    "distance": "196",
+    "est_time": 992,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84705P",
+    "date": "2024-06-15",
+    "distance": "167",
+    "est_time": 865,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45417Z",
+    "date": "2024-06-15",
+    "distance": "112",
+    "est_time": 859,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34339Y",
+    "date": "2024-06-16",
+    "distance": "190",
+    "est_time": 825,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90737J",
+    "date": "2024-06-16",
+    "distance": "183",
+    "est_time": 536,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91400H",
+    "date": "2024-06-16",
+    "distance": "106",
+    "est_time": 1120,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87716W",
+    "date": "2024-06-16",
+    "distance": "153",
+    "est_time": 1033,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94275W",
+    "date": "2024-06-17",
+    "distance": "131",
+    "est_time": 647,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93413K",
+    "date": "2024-06-17",
+    "distance": "99",
+    "est_time": 1027,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18860Q",
+    "date": "2024-06-17",
+    "distance": "111",
+    "est_time": 928,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87761X",
+    "date": "2024-06-18",
+    "distance": "196",
+    "est_time": 647,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51396Z",
+    "date": "2024-06-18",
+    "distance": "117",
+    "est_time": 861,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61716X",
+    "date": "2024-06-18",
+    "distance": "74",
+    "est_time": 1459,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87622T",
+    "date": "2024-06-19",
+    "distance": "83",
+    "est_time": 554,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97235L",
+    "date": "2024-06-19",
+    "distance": "160",
+    "est_time": 1104,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5728E",
+    "date": "2024-06-19",
+    "distance": "162",
+    "est_time": 1457,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4537E",
+    "date": "2024-06-19",
+    "distance": "125",
+    "est_time": 765,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23604U",
+    "date": "2024-06-20",
+    "distance": "110",
+    "est_time": 1199,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2489X",
+    "date": "2024-06-21",
+    "distance": "156",
+    "est_time": 1220,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80727G",
+    "date": "2024-06-21",
+    "distance": "173",
+    "est_time": 559,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98048K",
+    "date": "2024-06-21",
+    "distance": "124",
+    "est_time": 949,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89410X",
+    "date": "2024-06-21",
+    "distance": "172",
+    "est_time": 1075,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71427I",
+    "date": "2024-06-21",
+    "distance": "191",
+    "est_time": 1420,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75961X",
+    "date": "2024-06-22",
+    "distance": "75",
+    "est_time": 982,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24873Z",
+    "date": "2024-06-22",
+    "distance": "188",
+    "est_time": 660,
+    "device": "machine2"
+  },
+  {
+    "code": "HW362V",
+    "date": "2024-06-22",
+    "distance": "93",
+    "est_time": 821,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86732I",
+    "date": "2024-06-23",
+    "distance": "130",
+    "est_time": 579,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86448Y",
+    "date": "2024-06-23",
+    "distance": "81",
+    "est_time": 788,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15656S",
+    "date": "2024-06-23",
+    "distance": "128",
+    "est_time": 754,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93638U",
+    "date": "2024-06-24",
+    "distance": "168",
+    "est_time": 1407,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63564W",
+    "date": "2024-06-25",
+    "distance": "124",
+    "est_time": 833,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20069T",
+    "date": "2024-06-25",
+    "distance": "70",
+    "est_time": 1281,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13593B",
+    "date": "2024-06-26",
+    "distance": "104",
+    "est_time": 632,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91927C",
+    "date": "2024-06-26",
+    "distance": "63",
+    "est_time": 602,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89574M",
+    "date": "2024-06-26",
+    "distance": "68",
+    "est_time": 1114,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81674Q",
+    "date": "2024-06-26",
+    "distance": "93",
+    "est_time": 605,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56415J",
+    "date": "2024-06-27",
+    "distance": "163",
+    "est_time": 1363,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86121V",
+    "date": "2024-06-27",
+    "distance": "135",
+    "est_time": 1263,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92013J",
+    "date": "2024-06-27",
+    "distance": "190",
+    "est_time": 1149,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55223G",
+    "date": "2024-06-27",
+    "distance": "164",
+    "est_time": 600,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5828R",
+    "date": "2024-06-28",
+    "distance": "91",
+    "est_time": 743,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37965V",
+    "date": "2024-06-28",
+    "distance": "158",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78499U",
+    "date": "2024-06-28",
+    "distance": "157",
+    "est_time": 543,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1514C",
+    "date": "2024-06-28",
+    "distance": "179",
+    "est_time": 809,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17003G",
+    "date": "2024-06-28",
+    "distance": "163",
+    "est_time": 984,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30471J",
+    "date": "2024-06-29",
+    "distance": "54",
+    "est_time": 780,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16418Z",
+    "date": "2024-06-29",
+    "distance": "139",
+    "est_time": 799,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99544D",
+    "date": "2024-06-30",
+    "distance": "169",
+    "est_time": 1092,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86781F",
+    "date": "2024-06-30",
+    "distance": "94",
+    "est_time": 1351,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38573M",
+    "date": "2024-06-30",
+    "distance": "153",
+    "est_time": 794,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53125K",
+    "date": "2024-07-01",
+    "distance": "104",
+    "est_time": 785,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10079E",
+    "date": "2024-07-01",
+    "distance": "54",
+    "est_time": 1322,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62315Q",
+    "date": "2024-07-01",
+    "distance": "57",
+    "est_time": 1499,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96042A",
+    "date": "2024-07-01",
+    "distance": "136",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8899R",
+    "date": "2024-07-01",
+    "distance": "98",
+    "est_time": 1150,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87229Q",
+    "date": "2024-07-02",
+    "distance": "85",
+    "est_time": 826,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55453O",
+    "date": "2024-07-02",
+    "distance": "164",
+    "est_time": 1189,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49255T",
+    "date": "2024-07-02",
+    "distance": "92",
+    "est_time": 789,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98257J",
+    "date": "2024-07-02",
+    "distance": "166",
+    "est_time": 1088,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35297Y",
+    "date": "2024-07-02",
+    "distance": "96",
+    "est_time": 1362,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62114I",
+    "date": "2024-07-03",
+    "distance": "61",
+    "est_time": 690,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88515U",
+    "date": "2024-07-03",
+    "distance": "111",
+    "est_time": 1342,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38834Y",
+    "date": "2024-07-04",
+    "distance": "132",
+    "est_time": 1280,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81090J",
+    "date": "2024-07-05",
+    "distance": "113",
+    "est_time": 1117,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44007J",
+    "date": "2024-07-05",
+    "distance": "83",
+    "est_time": 1098,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4702Q",
+    "date": "2024-07-06",
+    "distance": "167",
+    "est_time": 1014,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66145K",
+    "date": "2024-07-07",
+    "distance": "132",
+    "est_time": 562,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41388Z",
+    "date": "2024-07-07",
+    "distance": "79",
+    "est_time": 855,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45225E",
+    "date": "2024-07-07",
+    "distance": "188",
+    "est_time": 818,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70932Z",
+    "date": "2024-07-08",
+    "distance": "190",
+    "est_time": 871,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22802J",
+    "date": "2024-07-08",
+    "distance": "104",
+    "est_time": 895,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21742E",
+    "date": "2024-07-08",
+    "distance": "152",
+    "est_time": 1156,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70586E",
+    "date": "2024-07-08",
+    "distance": "95",
+    "est_time": 1307,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92516E",
+    "date": "2024-07-08",
+    "distance": "100",
+    "est_time": 619,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39032X",
+    "date": "2024-07-09",
+    "distance": "150",
+    "est_time": 655,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93152K",
+    "date": "2024-07-10",
+    "distance": "183",
+    "est_time": 1080,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9412J",
+    "date": "2024-07-10",
+    "distance": "75",
+    "est_time": 873,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90354X",
+    "date": "2024-07-10",
+    "distance": "113",
+    "est_time": 1005,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90961R",
+    "date": "2024-07-11",
+    "distance": "105",
+    "est_time": 1379,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98930H",
+    "date": "2024-07-11",
+    "distance": "87",
+    "est_time": 715,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86040A",
+    "date": "2024-07-12",
+    "distance": "196",
+    "est_time": 716,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77790H",
+    "date": "2024-07-12",
+    "distance": "193",
+    "est_time": 967,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62522V",
+    "date": "2024-07-12",
+    "distance": "138",
+    "est_time": 1442,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8905X",
+    "date": "2024-07-12",
+    "distance": "117",
+    "est_time": 972,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65398V",
+    "date": "2024-07-12",
+    "distance": "114",
+    "est_time": 825,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44303V",
+    "date": "2024-07-13",
+    "distance": "115",
+    "est_time": 1367,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99840H",
+    "date": "2024-07-13",
+    "distance": "186",
+    "est_time": 1078,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92258A",
+    "date": "2024-07-13",
+    "distance": "81",
+    "est_time": 1374,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18431B",
+    "date": "2024-07-13",
+    "distance": "174",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75929F",
+    "date": "2024-07-14",
+    "distance": "126",
+    "est_time": 637,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18539L",
+    "date": "2024-07-15",
+    "distance": "91",
+    "est_time": 1234,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26896U",
+    "date": "2024-07-15",
+    "distance": "95",
+    "est_time": 1060,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72672W",
+    "date": "2024-07-15",
+    "distance": "161",
+    "est_time": 1240,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29100X",
+    "date": "2024-07-16",
+    "distance": "131",
+    "est_time": 1136,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53027J",
+    "date": "2024-07-16",
+    "distance": "184",
+    "est_time": 597,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35716O",
+    "date": "2024-07-17",
+    "distance": "134",
+    "est_time": 1047,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41016D",
+    "date": "2024-07-17",
+    "distance": "196",
+    "est_time": 1253,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99967H",
+    "date": "2024-07-18",
+    "distance": "145",
+    "est_time": 1342,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65516B",
+    "date": "2024-07-18",
+    "distance": "186",
+    "est_time": 508,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92793L",
+    "date": "2024-07-19",
+    "distance": "108",
+    "est_time": 1347,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34405T",
+    "date": "2024-07-20",
+    "distance": "79",
+    "est_time": 1159,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92959D",
+    "date": "2024-07-20",
+    "distance": "116",
+    "est_time": 668,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50027C",
+    "date": "2024-07-20",
+    "distance": "88",
+    "est_time": 569,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2532S",
+    "date": "2024-07-20",
+    "distance": "144",
+    "est_time": 1473,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42311E",
+    "date": "2024-07-20",
+    "distance": "56",
+    "est_time": 1425,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54372W",
+    "date": "2024-07-21",
+    "distance": "116",
+    "est_time": 1281,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40125R",
+    "date": "2024-07-21",
+    "distance": "64",
+    "est_time": 934,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11990V",
+    "date": "2024-07-22",
+    "distance": "53",
+    "est_time": 1198,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74558A",
+    "date": "2024-07-22",
+    "distance": "171",
+    "est_time": 813,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77086N",
+    "date": "2024-07-23",
+    "distance": "90",
+    "est_time": 1010,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82204B",
+    "date": "2024-07-23",
+    "distance": "183",
+    "est_time": 1230,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97711V",
+    "date": "2024-07-23",
+    "distance": "71",
+    "est_time": 1168,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11609M",
+    "date": "2024-07-24",
+    "distance": "117",
+    "est_time": 654,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45731F",
+    "date": "2024-07-24",
+    "distance": "69",
+    "est_time": 1389,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80591Y",
+    "date": "2024-07-24",
+    "distance": "105",
+    "est_time": 807,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22590D",
+    "date": "2024-07-24",
+    "distance": "185",
+    "est_time": 1048,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58823G",
+    "date": "2024-07-25",
+    "distance": "183",
+    "est_time": 505,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44981I",
+    "date": "2024-07-25",
+    "distance": "93",
+    "est_time": 1435,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73302F",
+    "date": "2024-07-25",
+    "distance": "128",
+    "est_time": 1034,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74291B",
+    "date": "2024-07-25",
+    "distance": "79",
+    "est_time": 643,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71839E",
+    "date": "2024-07-25",
+    "distance": "128",
+    "est_time": 528,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71365Y",
+    "date": "2024-07-26",
+    "distance": "160",
+    "est_time": 536,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32892V",
+    "date": "2024-07-26",
+    "distance": "100",
+    "est_time": 1318,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23733K",
+    "date": "2024-07-26",
+    "distance": "125",
+    "est_time": 560,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2392E",
+    "date": "2024-07-26",
+    "distance": "182",
+    "est_time": 1085,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79318S",
+    "date": "2024-07-26",
+    "distance": "190",
+    "est_time": 518,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72749L",
+    "date": "2024-07-27",
+    "distance": "93",
+    "est_time": 1182,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95943W",
+    "date": "2024-07-27",
+    "distance": "94",
+    "est_time": 818,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97911L",
+    "date": "2024-07-28",
+    "distance": "110",
+    "est_time": 1289,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75826X",
+    "date": "2024-07-28",
+    "distance": "134",
+    "est_time": 729,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86331Z",
+    "date": "2024-07-28",
+    "distance": "73",
+    "est_time": 1111,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85988O",
+    "date": "2024-07-28",
+    "distance": "157",
+    "est_time": 646,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69429R",
+    "date": "2024-07-28",
+    "distance": "90",
+    "est_time": 1313,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50016I",
+    "date": "2024-07-29",
+    "distance": "91",
+    "est_time": 1012,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3102K",
+    "date": "2024-07-29",
+    "distance": "188",
+    "est_time": 789,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70346F",
+    "date": "2024-07-29",
+    "distance": "64",
+    "est_time": 1472,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23061D",
+    "date": "2024-07-30",
+    "distance": "140",
+    "est_time": 691,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45860F",
+    "date": "2024-07-30",
+    "distance": "147",
+    "est_time": 956,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44958Q",
+    "date": "2024-07-30",
+    "distance": "58",
+    "est_time": 1313,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52679X",
+    "date": "2024-07-30",
+    "distance": "159",
+    "est_time": 1074,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66566Y",
+    "date": "2024-07-31",
+    "distance": "77",
+    "est_time": 1260,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60974P",
+    "date": "2024-07-31",
+    "distance": "105",
+    "est_time": 898,
+    "device": "machine2"
+  },
+  {
+    "code": "HW82505B",
+    "date": "2024-07-31",
+    "distance": "107",
+    "est_time": 1219,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61546S",
+    "date": "2024-07-31",
+    "distance": "194",
+    "est_time": 1117,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72848T",
+    "date": "2024-07-31",
+    "distance": "198",
+    "est_time": 632,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91831F",
+    "date": "2024-08-01",
+    "distance": "167",
+    "est_time": 875,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58222X",
+    "date": "2024-08-01",
+    "distance": "94",
+    "est_time": 1179,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42650J",
+    "date": "2024-08-01",
+    "distance": "164",
+    "est_time": 782,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51694Z",
+    "date": "2024-08-01",
+    "distance": "56",
+    "est_time": 596,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89114T",
+    "date": "2024-08-01",
+    "distance": "52",
+    "est_time": 1467,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90783U",
+    "date": "2024-08-02",
+    "distance": "123",
+    "est_time": 846,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73348D",
+    "date": "2024-08-02",
+    "distance": "118",
+    "est_time": 502,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43758Q",
+    "date": "2024-08-02",
+    "distance": "146",
+    "est_time": 1221,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43324N",
+    "date": "2024-08-02",
+    "distance": "158",
+    "est_time": 1172,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89109X",
+    "date": "2024-08-02",
+    "distance": "164",
+    "est_time": 1341,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58777D",
+    "date": "2024-08-03",
+    "distance": "145",
+    "est_time": 1332,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56328N",
+    "date": "2024-08-03",
+    "distance": "184",
+    "est_time": 1433,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10286O",
+    "date": "2024-08-04",
+    "distance": "127",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50289F",
+    "date": "2024-08-04",
+    "distance": "150",
+    "est_time": 858,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57056Q",
+    "date": "2024-08-04",
+    "distance": "128",
+    "est_time": 525,
+    "device": "machine2"
+  },
+  {
+    "code": "HW88397A",
+    "date": "2024-08-04",
+    "distance": "74",
+    "est_time": 1399,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67309A",
+    "date": "2024-08-05",
+    "distance": "89",
+    "est_time": 960,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54631P",
+    "date": "2024-08-05",
+    "distance": "161",
+    "est_time": 1074,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71738P",
+    "date": "2024-08-05",
+    "distance": "68",
+    "est_time": 721,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50036A",
+    "date": "2024-08-05",
+    "distance": "93",
+    "est_time": 1188,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41900R",
+    "date": "2024-08-05",
+    "distance": "147",
+    "est_time": 579,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7963H",
+    "date": "2024-08-06",
+    "distance": "151",
+    "est_time": 565,
+    "device": "machine2"
+  },
+  {
+    "code": "HW7410C",
+    "date": "2024-08-06",
+    "distance": "82",
+    "est_time": 975,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52492E",
+    "date": "2024-08-07",
+    "distance": "136",
+    "est_time": 689,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3003D",
+    "date": "2024-08-07",
+    "distance": "196",
+    "est_time": 1405,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31082L",
+    "date": "2024-08-07",
+    "distance": "135",
+    "est_time": 832,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1261I",
+    "date": "2024-08-07",
+    "distance": "109",
+    "est_time": 1002,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86490T",
+    "date": "2024-08-08",
+    "distance": "95",
+    "est_time": 616,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24534T",
+    "date": "2024-08-08",
+    "distance": "65",
+    "est_time": 732,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27628V",
+    "date": "2024-08-08",
+    "distance": "57",
+    "est_time": 1088,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72668G",
+    "date": "2024-08-08",
+    "distance": "105",
+    "est_time": 985,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91777S",
+    "date": "2024-08-09",
+    "distance": "128",
+    "est_time": 1068,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92562E",
+    "date": "2024-08-09",
+    "distance": "194",
+    "est_time": 1298,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97044O",
+    "date": "2024-08-09",
+    "distance": "147",
+    "est_time": 1002,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90587J",
+    "date": "2024-08-09",
+    "distance": "54",
+    "est_time": 561,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21851I",
+    "date": "2024-08-09",
+    "distance": "137",
+    "est_time": 787,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3235G",
+    "date": "2024-08-10",
+    "distance": "100",
+    "est_time": 1155,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56006M",
+    "date": "2024-08-10",
+    "distance": "119",
+    "est_time": 779,
+    "device": "machine2"
+  },
+  {
+    "code": "HW47961U",
+    "date": "2024-08-11",
+    "distance": "109",
+    "est_time": 1099,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8200P",
+    "date": "2024-08-12",
+    "distance": "76",
+    "est_time": 1227,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35033O",
+    "date": "2024-08-12",
+    "distance": "117",
+    "est_time": 1040,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54644Z",
+    "date": "2024-08-12",
+    "distance": "189",
+    "est_time": 695,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84730W",
+    "date": "2024-08-13",
+    "distance": "53",
+    "est_time": 783,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15723A",
+    "date": "2024-08-13",
+    "distance": "110",
+    "est_time": 1483,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96121U",
+    "date": "2024-08-13",
+    "distance": "193",
+    "est_time": 1348,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9985X",
+    "date": "2024-08-13",
+    "distance": "85",
+    "est_time": 1496,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54808I",
+    "date": "2024-08-14",
+    "distance": "189",
+    "est_time": 1023,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33708R",
+    "date": "2024-08-14",
+    "distance": "53",
+    "est_time": 1340,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94702L",
+    "date": "2024-08-14",
+    "distance": "141",
+    "est_time": 1443,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6431P",
+    "date": "2024-08-15",
+    "distance": "132",
+    "est_time": 1358,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87935P",
+    "date": "2024-08-15",
+    "distance": "194",
+    "est_time": 935,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10053D",
+    "date": "2024-08-15",
+    "distance": "192",
+    "est_time": 878,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71649A",
+    "date": "2024-08-15",
+    "distance": "84",
+    "est_time": 1005,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66238H",
+    "date": "2024-08-15",
+    "distance": "58",
+    "est_time": 1258,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84715K",
+    "date": "2024-08-16",
+    "distance": "142",
+    "est_time": 640,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38315A",
+    "date": "2024-08-16",
+    "distance": "132",
+    "est_time": 1010,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43242Z",
+    "date": "2024-08-16",
+    "distance": "159",
+    "est_time": 1145,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51555B",
+    "date": "2024-08-16",
+    "distance": "102",
+    "est_time": 764,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2376O",
+    "date": "2024-08-16",
+    "distance": "83",
+    "est_time": 1291,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27250G",
+    "date": "2024-08-17",
+    "distance": "54",
+    "est_time": 1129,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60572P",
+    "date": "2024-08-18",
+    "distance": "177",
+    "est_time": 813,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56047K",
+    "date": "2024-08-18",
+    "distance": "154",
+    "est_time": 661,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10216G",
+    "date": "2024-08-19",
+    "distance": "187",
+    "est_time": 837,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73928R",
+    "date": "2024-08-19",
+    "distance": "71",
+    "est_time": 558,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66750Z",
+    "date": "2024-08-19",
+    "distance": "100",
+    "est_time": 1184,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77775J",
+    "date": "2024-08-20",
+    "distance": "78",
+    "est_time": 738,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21944Y",
+    "date": "2024-08-20",
+    "distance": "160",
+    "est_time": 1043,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62384T",
+    "date": "2024-08-20",
+    "distance": "65",
+    "est_time": 1243,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36781B",
+    "date": "2024-08-20",
+    "distance": "132",
+    "est_time": 946,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21643N",
+    "date": "2024-08-21",
+    "distance": "85",
+    "est_time": 1044,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21656C",
+    "date": "2024-08-21",
+    "distance": "160",
+    "est_time": 923,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64385T",
+    "date": "2024-08-22",
+    "distance": "174",
+    "est_time": 542,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84992O",
+    "date": "2024-08-22",
+    "distance": "180",
+    "est_time": 1239,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52295T",
+    "date": "2024-08-22",
+    "distance": "96",
+    "est_time": 567,
+    "device": "machine2"
+  },
+  {
+    "code": "HW8786J",
+    "date": "2024-08-22",
+    "distance": "58",
+    "est_time": 789,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85006R",
+    "date": "2024-08-23",
+    "distance": "177",
+    "est_time": 829,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64600Y",
+    "date": "2024-08-24",
+    "distance": "127",
+    "est_time": 1432,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93077Z",
+    "date": "2024-08-24",
+    "distance": "167",
+    "est_time": 515,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51983W",
+    "date": "2024-08-24",
+    "distance": "113",
+    "est_time": 1417,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54078L",
+    "date": "2024-08-24",
+    "distance": "151",
+    "est_time": 779,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5010U",
+    "date": "2024-08-24",
+    "distance": "90",
+    "est_time": 1037,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4693B",
+    "date": "2024-08-25",
+    "distance": "130",
+    "est_time": 831,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14145S",
+    "date": "2024-08-25",
+    "distance": "72",
+    "est_time": 1448,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37817F",
+    "date": "2024-08-25",
+    "distance": "71",
+    "est_time": 523,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95580B",
+    "date": "2024-08-26",
+    "distance": "76",
+    "est_time": 1311,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74649D",
+    "date": "2024-08-26",
+    "distance": "156",
+    "est_time": 1162,
+    "device": "machine2"
+  },
+  {
+    "code": "HW18320N",
+    "date": "2024-08-26",
+    "distance": "158",
+    "est_time": 1320,
+    "device": "machine2"
+  },
+  {
+    "code": "HW38522L",
+    "date": "2024-08-26",
+    "distance": "157",
+    "est_time": 1469,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67327U",
+    "date": "2024-08-26",
+    "distance": "64",
+    "est_time": 1050,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91833H",
+    "date": "2024-08-27",
+    "distance": "186",
+    "est_time": 1108,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26264I",
+    "date": "2024-08-27",
+    "distance": "142",
+    "est_time": 824,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20874W",
+    "date": "2024-08-27",
+    "distance": "93",
+    "est_time": 918,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3694I",
+    "date": "2024-08-28",
+    "distance": "96",
+    "est_time": 1470,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83915Z",
+    "date": "2024-08-28",
+    "distance": "117",
+    "est_time": 1337,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36179X",
+    "date": "2024-08-28",
+    "distance": "188",
+    "est_time": 1474,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64622G",
+    "date": "2024-08-28",
+    "distance": "93",
+    "est_time": 1435,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66487L",
+    "date": "2024-08-28",
+    "distance": "58",
+    "est_time": 814,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92284P",
+    "date": "2024-08-29",
+    "distance": "70",
+    "est_time": 1207,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26133N",
+    "date": "2024-08-29",
+    "distance": "135",
+    "est_time": 827,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59599E",
+    "date": "2024-08-30",
+    "distance": "89",
+    "est_time": 880,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89422F",
+    "date": "2024-08-30",
+    "distance": "156",
+    "est_time": 827,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89622X",
+    "date": "2024-08-31",
+    "distance": "104",
+    "est_time": 756,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64018W",
+    "date": "2024-08-31",
+    "distance": "52",
+    "est_time": 1370,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69906W",
+    "date": "2024-08-31",
+    "distance": "54",
+    "est_time": 1414,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20983E",
+    "date": "2024-09-01",
+    "distance": "102",
+    "est_time": 1065,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85029O",
+    "date": "2024-09-01",
+    "distance": "83",
+    "est_time": 1126,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37667K",
+    "date": "2024-09-02",
+    "distance": "135",
+    "est_time": 1352,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10796Y",
+    "date": "2024-09-03",
+    "distance": "65",
+    "est_time": 1161,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70314G",
+    "date": "2024-09-03",
+    "distance": "82",
+    "est_time": 1176,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95950D",
+    "date": "2024-09-03",
+    "distance": "159",
+    "est_time": 515,
+    "device": "machine2"
+  },
+  {
+    "code": "HW91939R",
+    "date": "2024-09-04",
+    "distance": "69",
+    "est_time": 1322,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13637Q",
+    "date": "2024-09-04",
+    "distance": "81",
+    "est_time": 1430,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39540E",
+    "date": "2024-09-04",
+    "distance": "121",
+    "est_time": 1082,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64750J",
+    "date": "2024-09-05",
+    "distance": "125",
+    "est_time": 1207,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34686Y",
+    "date": "2024-09-06",
+    "distance": "94",
+    "est_time": 748,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58828H",
+    "date": "2024-09-06",
+    "distance": "173",
+    "est_time": 1280,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94589I",
+    "date": "2024-09-06",
+    "distance": "191",
+    "est_time": 1406,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53242P",
+    "date": "2024-09-06",
+    "distance": "181",
+    "est_time": 867,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94845T",
+    "date": "2024-09-06",
+    "distance": "166",
+    "est_time": 715,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81511M",
+    "date": "2024-09-07",
+    "distance": "196",
+    "est_time": 1133,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81046W",
+    "date": "2024-09-07",
+    "distance": "70",
+    "est_time": 876,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98577B",
+    "date": "2024-09-08",
+    "distance": "96",
+    "est_time": 1272,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64249V",
+    "date": "2024-09-08",
+    "distance": "52",
+    "est_time": 649,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22683J",
+    "date": "2024-09-08",
+    "distance": "174",
+    "est_time": 1250,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10027S",
+    "date": "2024-09-08",
+    "distance": "100",
+    "est_time": 643,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98789G",
+    "date": "2024-09-08",
+    "distance": "125",
+    "est_time": 836,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71895O",
+    "date": "2024-09-09",
+    "distance": "92",
+    "est_time": 681,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85404X",
+    "date": "2024-09-10",
+    "distance": "199",
+    "est_time": 808,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33059I",
+    "date": "2024-09-10",
+    "distance": "145",
+    "est_time": 682,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76555L",
+    "date": "2024-09-10",
+    "distance": "160",
+    "est_time": 1265,
+    "device": "machine2"
+  },
+  {
+    "code": "HW47975S",
+    "date": "2024-09-10",
+    "distance": "181",
+    "est_time": 551,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25992V",
+    "date": "2024-09-10",
+    "distance": "134",
+    "est_time": 1488,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53T",
+    "date": "2024-09-11",
+    "distance": "72",
+    "est_time": 1013,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27386M",
+    "date": "2024-09-12",
+    "distance": "147",
+    "est_time": 941,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35316O",
+    "date": "2024-09-13",
+    "distance": "167",
+    "est_time": 904,
+    "device": "machine2"
+  },
+  {
+    "code": "HW33915A",
+    "date": "2024-09-13",
+    "distance": "89",
+    "est_time": 1199,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40511L",
+    "date": "2024-09-13",
+    "distance": "61",
+    "est_time": 964,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42309V",
+    "date": "2024-09-13",
+    "distance": "64",
+    "est_time": 1376,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63900W",
+    "date": "2024-09-13",
+    "distance": "150",
+    "est_time": 1021,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40409K",
+    "date": "2024-09-14",
+    "distance": "110",
+    "est_time": 570,
+    "device": "machine2"
+  },
+  {
+    "code": "HW99831J",
+    "date": "2024-09-14",
+    "distance": "51",
+    "est_time": 583,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68926B",
+    "date": "2024-09-14",
+    "distance": "152",
+    "est_time": 1083,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32349Z",
+    "date": "2024-09-14",
+    "distance": "157",
+    "est_time": 841,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11385N",
+    "date": "2024-09-15",
+    "distance": "192",
+    "est_time": 1051,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64170J",
+    "date": "2024-09-15",
+    "distance": "125",
+    "est_time": 1197,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63520G",
+    "date": "2024-09-15",
+    "distance": "93",
+    "est_time": 707,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3696G",
+    "date": "2024-09-15",
+    "distance": "120",
+    "est_time": 949,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36531N",
+    "date": "2024-09-15",
+    "distance": "177",
+    "est_time": 1315,
+    "device": "machine2"
+  },
+  {
+    "code": "HW48372K",
+    "date": "2024-09-16",
+    "distance": "96",
+    "est_time": 602,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49770B",
+    "date": "2024-09-16",
+    "distance": "174",
+    "est_time": 825,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94246V",
+    "date": "2024-09-17",
+    "distance": "106",
+    "est_time": 1456,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87748Z",
+    "date": "2024-09-17",
+    "distance": "61",
+    "est_time": 1298,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80635E",
+    "date": "2024-09-17",
+    "distance": "63",
+    "est_time": 1326,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76Z",
+    "date": "2024-09-17",
+    "distance": "119",
+    "est_time": 1175,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1445K",
+    "date": "2024-09-18",
+    "distance": "72",
+    "est_time": 950,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96299C",
+    "date": "2024-09-18",
+    "distance": "155",
+    "est_time": 1058,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26021O",
+    "date": "2024-09-18",
+    "distance": "113",
+    "est_time": 790,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2831N",
+    "date": "2024-09-19",
+    "distance": "129",
+    "est_time": 1251,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61322B",
+    "date": "2024-09-19",
+    "distance": "109",
+    "est_time": 746,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86436T",
+    "date": "2024-09-20",
+    "distance": "73",
+    "est_time": 1399,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75951Z",
+    "date": "2024-09-20",
+    "distance": "196",
+    "est_time": 914,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63026E",
+    "date": "2024-09-20",
+    "distance": "74",
+    "est_time": 1395,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24827N",
+    "date": "2024-09-20",
+    "distance": "189",
+    "est_time": 517,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63804K",
+    "date": "2024-09-20",
+    "distance": "179",
+    "est_time": 976,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40797Z",
+    "date": "2024-09-21",
+    "distance": "53",
+    "est_time": 1292,
+    "device": "machine2"
+  },
+  {
+    "code": "HW61067F",
+    "date": "2024-09-22",
+    "distance": "145",
+    "est_time": 1290,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42477B",
+    "date": "2024-09-23",
+    "distance": "173",
+    "est_time": 962,
+    "device": "machine2"
+  },
+  {
+    "code": "HW27356B",
+    "date": "2024-09-23",
+    "distance": "143",
+    "est_time": 1170,
+    "device": "machine2"
+  },
+  {
+    "code": "HW40823Z",
+    "date": "2024-09-23",
+    "distance": "155",
+    "est_time": 981,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44240N",
+    "date": "2024-09-24",
+    "distance": "154",
+    "est_time": 1083,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64441D",
+    "date": "2024-09-24",
+    "distance": "59",
+    "est_time": 1251,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77176S",
+    "date": "2024-09-24",
+    "distance": "83",
+    "est_time": 1240,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21375S",
+    "date": "2024-09-25",
+    "distance": "85",
+    "est_time": 1161,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46159L",
+    "date": "2024-09-25",
+    "distance": "108",
+    "est_time": 1356,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92052U",
+    "date": "2024-09-25",
+    "distance": "122",
+    "est_time": 945,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24623T",
+    "date": "2024-09-25",
+    "distance": "98",
+    "est_time": 680,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96705N",
+    "date": "2024-09-25",
+    "distance": "86",
+    "est_time": 809,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81649X",
+    "date": "2024-09-26",
+    "distance": "157",
+    "est_time": 1244,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63773E",
+    "date": "2024-09-26",
+    "distance": "138",
+    "est_time": 1215,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14944X",
+    "date": "2024-09-27",
+    "distance": "139",
+    "est_time": 1372,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85548L",
+    "date": "2024-09-27",
+    "distance": "160",
+    "est_time": 1390,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76215U",
+    "date": "2024-09-27",
+    "distance": "144",
+    "est_time": 1085,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53398K",
+    "date": "2024-09-28",
+    "distance": "140",
+    "est_time": 1034,
+    "device": "machine2"
+  },
+  {
+    "code": "HW14806P",
+    "date": "2024-09-28",
+    "distance": "79",
+    "est_time": 1003,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85289T",
+    "date": "2024-09-28",
+    "distance": "152",
+    "est_time": 868,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6334M",
+    "date": "2024-09-28",
+    "distance": "150",
+    "est_time": 799,
+    "device": "machine2"
+  },
+  {
+    "code": "HW49379J",
+    "date": "2024-09-29",
+    "distance": "63",
+    "est_time": 1212,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29753J",
+    "date": "2024-09-30",
+    "distance": "92",
+    "est_time": 791,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86483V",
+    "date": "2024-09-30",
+    "distance": "60",
+    "est_time": 578,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79855B",
+    "date": "2024-09-30",
+    "distance": "171",
+    "est_time": 614,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41528V",
+    "date": "2024-09-30",
+    "distance": "130",
+    "est_time": 644,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1592E",
+    "date": "2024-10-01",
+    "distance": "189",
+    "est_time": 1034,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42822W",
+    "date": "2024-10-01",
+    "distance": "77",
+    "est_time": 1433,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58719F",
+    "date": "2024-10-02",
+    "distance": "59",
+    "est_time": 515,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96577G",
+    "date": "2024-10-02",
+    "distance": "174",
+    "est_time": 1153,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9396D",
+    "date": "2024-10-02",
+    "distance": "84",
+    "est_time": 1243,
+    "device": "machine2"
+  },
+  {
+    "code": "HW46548M",
+    "date": "2024-10-02",
+    "distance": "126",
+    "est_time": 1207,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92952X",
+    "date": "2024-10-03",
+    "distance": "115",
+    "est_time": 927,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51385R",
+    "date": "2024-10-04",
+    "distance": "137",
+    "est_time": 1035,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86329X",
+    "date": "2024-10-04",
+    "distance": "125",
+    "est_time": 904,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96273O",
+    "date": "2024-10-04",
+    "distance": "135",
+    "est_time": 971,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65602W",
+    "date": "2024-10-05",
+    "distance": "78",
+    "est_time": 914,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86550R",
+    "date": "2024-10-06",
+    "distance": "197",
+    "est_time": 1386,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65420G",
+    "date": "2024-10-06",
+    "distance": "171",
+    "est_time": 975,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81293D",
+    "date": "2024-10-06",
+    "distance": "138",
+    "est_time": 1427,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9436P",
+    "date": "2024-10-07",
+    "distance": "63",
+    "est_time": 1138,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78722R",
+    "date": "2024-10-07",
+    "distance": "138",
+    "est_time": 1417,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28110B",
+    "date": "2024-10-07",
+    "distance": "139",
+    "est_time": 618,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25002X",
+    "date": "2024-10-08",
+    "distance": "162",
+    "est_time": 1340,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17473Z",
+    "date": "2024-10-08",
+    "distance": "80",
+    "est_time": 808,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12812E",
+    "date": "2024-10-08",
+    "distance": "94",
+    "est_time": 1204,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66850J",
+    "date": "2024-10-09",
+    "distance": "100",
+    "est_time": 1213,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15022P",
+    "date": "2024-10-09",
+    "distance": "153",
+    "est_time": 1417,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92854P",
+    "date": "2024-10-09",
+    "distance": "56",
+    "est_time": 1008,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12658O",
+    "date": "2024-10-09",
+    "distance": "148",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97113T",
+    "date": "2024-10-10",
+    "distance": "51",
+    "est_time": 710,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23825V",
+    "date": "2024-10-10",
+    "distance": "162",
+    "est_time": 1298,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37272W",
+    "date": "2024-10-10",
+    "distance": "178",
+    "est_time": 1157,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39365S",
+    "date": "2024-10-10",
+    "distance": "174",
+    "est_time": 763,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69838Q",
+    "date": "2024-10-10",
+    "distance": "112",
+    "est_time": 1112,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66890Q",
+    "date": "2024-10-11",
+    "distance": "169",
+    "est_time": 1123,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37844Z",
+    "date": "2024-10-11",
+    "distance": "107",
+    "est_time": 504,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64466U",
+    "date": "2024-10-11",
+    "distance": "91",
+    "est_time": 849,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78360U",
+    "date": "2024-10-11",
+    "distance": "140",
+    "est_time": 1026,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50354S",
+    "date": "2024-10-12",
+    "distance": "110",
+    "est_time": 1329,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68234J",
+    "date": "2024-10-12",
+    "distance": "68",
+    "est_time": 1320,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69052X",
+    "date": "2024-10-12",
+    "distance": "166",
+    "est_time": 1450,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43773Z",
+    "date": "2024-10-12",
+    "distance": "97",
+    "est_time": 912,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80456M",
+    "date": "2024-10-13",
+    "distance": "76",
+    "est_time": 1096,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69644D",
+    "date": "2024-10-14",
+    "distance": "157",
+    "est_time": 545,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55342S",
+    "date": "2024-10-14",
+    "distance": "50",
+    "est_time": 650,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9095L",
+    "date": "2024-10-15",
+    "distance": "107",
+    "est_time": 1054,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51438B",
+    "date": "2024-10-15",
+    "distance": "116",
+    "est_time": 1227,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15111R",
+    "date": "2024-10-16",
+    "distance": "153",
+    "est_time": 1100,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17318F",
+    "date": "2024-10-17",
+    "distance": "172",
+    "est_time": 1446,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30032K",
+    "date": "2024-10-17",
+    "distance": "57",
+    "est_time": 1309,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98087T",
+    "date": "2024-10-17",
+    "distance": "173",
+    "est_time": 556,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20340W",
+    "date": "2024-10-18",
+    "distance": "148",
+    "est_time": 1344,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15447M",
+    "date": "2024-10-18",
+    "distance": "177",
+    "est_time": 1370,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55902A",
+    "date": "2024-10-18",
+    "distance": "150",
+    "est_time": 527,
+    "device": "machine2"
+  },
+  {
+    "code": "HW69178T",
+    "date": "2024-10-18",
+    "distance": "175",
+    "est_time": 602,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25195K",
+    "date": "2024-10-19",
+    "distance": "68",
+    "est_time": 1470,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31905U",
+    "date": "2024-10-19",
+    "distance": "197",
+    "est_time": 522,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56547B",
+    "date": "2024-10-19",
+    "distance": "53",
+    "est_time": 698,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92424K",
+    "date": "2024-10-20",
+    "distance": "145",
+    "est_time": 613,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11558G",
+    "date": "2024-10-20",
+    "distance": "171",
+    "est_time": 1105,
+    "device": "machine2"
+  },
+  {
+    "code": "HW29276X",
+    "date": "2024-10-20",
+    "distance": "83",
+    "est_time": 949,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11732A",
+    "date": "2024-10-20",
+    "distance": "57",
+    "est_time": 1301,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87357O",
+    "date": "2024-10-21",
+    "distance": "121",
+    "est_time": 1262,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66670C",
+    "date": "2024-10-21",
+    "distance": "88",
+    "est_time": 832,
+    "device": "machine2"
+  },
+  {
+    "code": "HW51110F",
+    "date": "2024-10-21",
+    "distance": "101",
+    "est_time": 867,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41702K",
+    "date": "2024-10-21",
+    "distance": "167",
+    "est_time": 1259,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20362Z",
+    "date": "2024-10-22",
+    "distance": "152",
+    "est_time": 1077,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34707R",
+    "date": "2024-10-23",
+    "distance": "143",
+    "est_time": 1114,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3935Q",
+    "date": "2024-10-23",
+    "distance": "145",
+    "est_time": 1048,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26462A",
+    "date": "2024-10-23",
+    "distance": "195",
+    "est_time": 812,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35585C",
+    "date": "2024-10-24",
+    "distance": "104",
+    "est_time": 869,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57344D",
+    "date": "2024-10-24",
+    "distance": "92",
+    "est_time": 552,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74522Z",
+    "date": "2024-10-25",
+    "distance": "121",
+    "est_time": 935,
+    "device": "machine2"
+  },
+  {
+    "code": "HW54633N",
+    "date": "2024-10-25",
+    "distance": "139",
+    "est_time": 1061,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62555V",
+    "date": "2024-10-25",
+    "distance": "95",
+    "est_time": 772,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67878Z",
+    "date": "2024-10-26",
+    "distance": "170",
+    "est_time": 864,
+    "device": "machine2"
+  },
+  {
+    "code": "HW5653H",
+    "date": "2024-10-27",
+    "distance": "119",
+    "est_time": 1098,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78385R",
+    "date": "2024-10-28",
+    "distance": "99",
+    "est_time": 1207,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23860R",
+    "date": "2024-10-28",
+    "distance": "164",
+    "est_time": 992,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79612P",
+    "date": "2024-10-28",
+    "distance": "70",
+    "est_time": 952,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84390F",
+    "date": "2024-10-28",
+    "distance": "55",
+    "est_time": 1464,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3278P",
+    "date": "2024-10-29",
+    "distance": "166",
+    "est_time": 1098,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6194H",
+    "date": "2024-10-30",
+    "distance": "151",
+    "est_time": 1438,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25353U",
+    "date": "2024-10-30",
+    "distance": "124",
+    "est_time": 543,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75743Q",
+    "date": "2024-10-30",
+    "distance": "97",
+    "est_time": 629,
+    "device": "machine2"
+  },
+  {
+    "code": "HW64160F",
+    "date": "2024-10-31",
+    "distance": "117",
+    "est_time": 1119,
+    "device": "machine2"
+  },
+  {
+    "code": "HW74475C",
+    "date": "2024-10-31",
+    "distance": "50",
+    "est_time": 1029,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85405P",
+    "date": "2024-10-31",
+    "distance": "70",
+    "est_time": 1141,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2572I",
+    "date": "2024-10-31",
+    "distance": "81",
+    "est_time": 721,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89050J",
+    "date": "2024-11-01",
+    "distance": "145",
+    "est_time": 1186,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16832J",
+    "date": "2024-11-02",
+    "distance": "122",
+    "est_time": 1099,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80976E",
+    "date": "2024-11-02",
+    "distance": "122",
+    "est_time": 814,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78914Y",
+    "date": "2024-11-02",
+    "distance": "168",
+    "est_time": 920,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3543D",
+    "date": "2024-11-03",
+    "distance": "177",
+    "est_time": 1080,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41713O",
+    "date": "2024-11-03",
+    "distance": "103",
+    "est_time": 618,
+    "device": "machine2"
+  },
+  {
+    "code": "HW68085X",
+    "date": "2024-11-03",
+    "distance": "67",
+    "est_time": 1125,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67318K",
+    "date": "2024-11-03",
+    "distance": "109",
+    "est_time": 902,
+    "device": "machine2"
+  },
+  {
+    "code": "HW42765L",
+    "date": "2024-11-03",
+    "distance": "139",
+    "est_time": 764,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57681J",
+    "date": "2024-11-04",
+    "distance": "163",
+    "est_time": 556,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77232W",
+    "date": "2024-11-04",
+    "distance": "93",
+    "est_time": 988,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57602Q",
+    "date": "2024-11-05",
+    "distance": "193",
+    "est_time": 520,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81438A",
+    "date": "2024-11-05",
+    "distance": "169",
+    "est_time": 506,
+    "device": "machine2"
+  },
+  {
+    "code": "HW10564E",
+    "date": "2024-11-06",
+    "distance": "131",
+    "est_time": 718,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94845P",
+    "date": "2024-11-06",
+    "distance": "58",
+    "est_time": 1037,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63437H",
+    "date": "2024-11-06",
+    "distance": "170",
+    "est_time": 752,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93378Q",
+    "date": "2024-11-06",
+    "distance": "100",
+    "est_time": 568,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60320C",
+    "date": "2024-11-06",
+    "distance": "93",
+    "est_time": 1356,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37441S",
+    "date": "2024-11-07",
+    "distance": "57",
+    "est_time": 504,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2087D",
+    "date": "2024-11-07",
+    "distance": "92",
+    "est_time": 1164,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13256H",
+    "date": "2024-11-07",
+    "distance": "54",
+    "est_time": 929,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93292L",
+    "date": "2024-11-07",
+    "distance": "168",
+    "est_time": 542,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34914F",
+    "date": "2024-11-08",
+    "distance": "191",
+    "est_time": 948,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32630G",
+    "date": "2024-11-08",
+    "distance": "120",
+    "est_time": 612,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53495J",
+    "date": "2024-11-09",
+    "distance": "188",
+    "est_time": 681,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59675Z",
+    "date": "2024-11-10",
+    "distance": "175",
+    "est_time": 719,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85469K",
+    "date": "2024-11-10",
+    "distance": "191",
+    "est_time": 756,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81693V",
+    "date": "2024-11-10",
+    "distance": "90",
+    "est_time": 1370,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9091H",
+    "date": "2024-11-10",
+    "distance": "50",
+    "est_time": 1461,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83143Y",
+    "date": "2024-11-10",
+    "distance": "172",
+    "est_time": 1465,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86733N",
+    "date": "2024-11-11",
+    "distance": "55",
+    "est_time": 1251,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52332X",
+    "date": "2024-11-11",
+    "distance": "163",
+    "est_time": 1450,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9997D",
+    "date": "2024-11-11",
+    "distance": "80",
+    "est_time": 741,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23498G",
+    "date": "2024-11-12",
+    "distance": "58",
+    "est_time": 1325,
+    "device": "machine2"
+  },
+  {
+    "code": "HW43111Y",
+    "date": "2024-11-12",
+    "distance": "131",
+    "est_time": 1489,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52513Y",
+    "date": "2024-11-12",
+    "distance": "163",
+    "est_time": 1031,
+    "device": "machine2"
+  },
+  {
+    "code": "HW52902W",
+    "date": "2024-11-13",
+    "distance": "146",
+    "est_time": 1378,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23984A",
+    "date": "2024-11-13",
+    "distance": "85",
+    "est_time": 887,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23806L",
+    "date": "2024-11-13",
+    "distance": "133",
+    "est_time": 734,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75880T",
+    "date": "2024-11-14",
+    "distance": "191",
+    "est_time": 605,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11383Y",
+    "date": "2024-11-14",
+    "distance": "161",
+    "est_time": 1381,
+    "device": "machine2"
+  },
+  {
+    "code": "HW2623V",
+    "date": "2024-11-14",
+    "distance": "170",
+    "est_time": 771,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6963M",
+    "date": "2024-11-15",
+    "distance": "115",
+    "est_time": 840,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56303G",
+    "date": "2024-11-15",
+    "distance": "68",
+    "est_time": 685,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22139Q",
+    "date": "2024-11-15",
+    "distance": "169",
+    "est_time": 1463,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25379Y",
+    "date": "2024-11-16",
+    "distance": "120",
+    "est_time": 918,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63495Z",
+    "date": "2024-11-16",
+    "distance": "102",
+    "est_time": 1025,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25534Z",
+    "date": "2024-11-16",
+    "distance": "101",
+    "est_time": 1198,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65039H",
+    "date": "2024-11-16",
+    "distance": "170",
+    "est_time": 879,
+    "device": "machine2"
+  },
+  {
+    "code": "HW73405J",
+    "date": "2024-11-17",
+    "distance": "152",
+    "est_time": 805,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37420K",
+    "date": "2024-11-17",
+    "distance": "149",
+    "est_time": 512,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72757P",
+    "date": "2024-11-17",
+    "distance": "67",
+    "est_time": 551,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86715N",
+    "date": "2024-11-17",
+    "distance": "126",
+    "est_time": 1079,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44191F",
+    "date": "2024-11-18",
+    "distance": "132",
+    "est_time": 804,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71728Z",
+    "date": "2024-11-19",
+    "distance": "142",
+    "est_time": 1063,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79070I",
+    "date": "2024-11-19",
+    "distance": "51",
+    "est_time": 982,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87350Z",
+    "date": "2024-11-19",
+    "distance": "174",
+    "est_time": 1293,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81438E",
+    "date": "2024-11-19",
+    "distance": "143",
+    "est_time": 1215,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6575K",
+    "date": "2024-11-20",
+    "distance": "116",
+    "est_time": 1350,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44600R",
+    "date": "2024-11-20",
+    "distance": "195",
+    "est_time": 1238,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95092D",
+    "date": "2024-11-20",
+    "distance": "91",
+    "est_time": 811,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63864C",
+    "date": "2024-11-20",
+    "distance": "85",
+    "est_time": 538,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28679O",
+    "date": "2024-11-20",
+    "distance": "88",
+    "est_time": 1435,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83465V",
+    "date": "2024-11-21",
+    "distance": "104",
+    "est_time": 1354,
+    "device": "machine2"
+  },
+  {
+    "code": "HW72691Y",
+    "date": "2024-11-21",
+    "distance": "78",
+    "est_time": 761,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34687X",
+    "date": "2024-11-22",
+    "distance": "114",
+    "est_time": 1284,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28757W",
+    "date": "2024-11-22",
+    "distance": "114",
+    "est_time": 1115,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80892X",
+    "date": "2024-11-22",
+    "distance": "196",
+    "est_time": 1375,
+    "device": "machine2"
+  },
+  {
+    "code": "HW66910U",
+    "date": "2024-11-22",
+    "distance": "135",
+    "est_time": 1195,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34817L",
+    "date": "2024-11-22",
+    "distance": "63",
+    "est_time": 575,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90445B",
+    "date": "2024-11-23",
+    "distance": "80",
+    "est_time": 534,
+    "device": "machine2"
+  },
+  {
+    "code": "HW76061F",
+    "date": "2024-11-23",
+    "distance": "96",
+    "est_time": 674,
+    "device": "machine2"
+  },
+  {
+    "code": "HW89026X",
+    "date": "2024-11-24",
+    "distance": "136",
+    "est_time": 848,
+    "device": "machine2"
+  },
+  {
+    "code": "HW34806C",
+    "date": "2024-11-24",
+    "distance": "111",
+    "est_time": 1458,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94074X",
+    "date": "2024-11-24",
+    "distance": "66",
+    "est_time": 1281,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37121H",
+    "date": "2024-11-25",
+    "distance": "191",
+    "est_time": 652,
+    "device": "machine2"
+  },
+  {
+    "code": "HW55090G",
+    "date": "2024-11-25",
+    "distance": "196",
+    "est_time": 1336,
+    "device": "machine2"
+  },
+  {
+    "code": "HW24837H",
+    "date": "2024-11-26",
+    "distance": "50",
+    "est_time": 917,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12830W",
+    "date": "2024-11-26",
+    "distance": "129",
+    "est_time": 730,
+    "device": "machine2"
+  },
+  {
+    "code": "HW1437L",
+    "date": "2024-11-26",
+    "distance": "159",
+    "est_time": 974,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57753F",
+    "date": "2024-11-26",
+    "distance": "140",
+    "est_time": 1090,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81927V",
+    "date": "2024-11-26",
+    "distance": "54",
+    "est_time": 681,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77496F",
+    "date": "2024-11-27",
+    "distance": "111",
+    "est_time": 634,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17984E",
+    "date": "2024-11-27",
+    "distance": "145",
+    "est_time": 1193,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95975V",
+    "date": "2024-11-27",
+    "distance": "137",
+    "est_time": 686,
+    "device": "machine2"
+  },
+  {
+    "code": "HW84134N",
+    "date": "2024-11-27",
+    "distance": "187",
+    "est_time": 526,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60653C",
+    "date": "2024-11-27",
+    "distance": "58",
+    "est_time": 1126,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26767T",
+    "date": "2024-11-28",
+    "distance": "86",
+    "est_time": 1341,
+    "device": "machine2"
+  },
+  {
+    "code": "HW90269Q",
+    "date": "2024-11-29",
+    "distance": "74",
+    "est_time": 635,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70054T",
+    "date": "2024-11-29",
+    "distance": "69",
+    "est_time": 1334,
+    "device": "machine2"
+  },
+  {
+    "code": "HW36929P",
+    "date": "2024-11-30",
+    "distance": "102",
+    "est_time": 1106,
+    "device": "machine2"
+  },
+  {
+    "code": "HW41354C",
+    "date": "2024-11-30",
+    "distance": "68",
+    "est_time": 1202,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6663O",
+    "date": "2024-11-30",
+    "distance": "154",
+    "est_time": 959,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95781R",
+    "date": "2024-12-01",
+    "distance": "114",
+    "est_time": 1248,
+    "device": "machine2"
+  },
+  {
+    "code": "HW57060C",
+    "date": "2024-12-01",
+    "distance": "157",
+    "est_time": 558,
+    "device": "machine2"
+  },
+  {
+    "code": "HW26329Q",
+    "date": "2024-12-01",
+    "distance": "146",
+    "est_time": 1243,
+    "device": "machine2"
+  },
+  {
+    "code": "HW67376Z",
+    "date": "2024-12-02",
+    "distance": "123",
+    "est_time": 697,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60478F",
+    "date": "2024-12-02",
+    "distance": "134",
+    "est_time": 1379,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92239M",
+    "date": "2024-12-03",
+    "distance": "83",
+    "est_time": 1176,
+    "device": "machine2"
+  },
+  {
+    "code": "HW78797D",
+    "date": "2024-12-03",
+    "distance": "88",
+    "est_time": 1457,
+    "device": "machine2"
+  },
+  {
+    "code": "HW37269O",
+    "date": "2024-12-03",
+    "distance": "151",
+    "est_time": 591,
+    "device": "machine2"
+  },
+  {
+    "code": "HW19688Z",
+    "date": "2024-12-03",
+    "distance": "182",
+    "est_time": 1060,
+    "device": "machine2"
+  },
+  {
+    "code": "HW97234P",
+    "date": "2024-12-04",
+    "distance": "81",
+    "est_time": 1353,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50333N",
+    "date": "2024-12-05",
+    "distance": "88",
+    "est_time": 1045,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4663Z",
+    "date": "2024-12-05",
+    "distance": "65",
+    "est_time": 1244,
+    "device": "machine2"
+  },
+  {
+    "code": "HW6979E",
+    "date": "2024-12-05",
+    "distance": "86",
+    "est_time": 507,
+    "device": "machine2"
+  },
+  {
+    "code": "HW86945W",
+    "date": "2024-12-06",
+    "distance": "188",
+    "est_time": 1099,
+    "device": "machine2"
+  },
+  {
+    "code": "HW20850S",
+    "date": "2024-12-06",
+    "distance": "160",
+    "est_time": 1267,
+    "device": "machine2"
+  },
+  {
+    "code": "HW3496Z",
+    "date": "2024-12-06",
+    "distance": "101",
+    "est_time": 1352,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21520P",
+    "date": "2024-12-06",
+    "distance": "150",
+    "est_time": 916,
+    "device": "machine2"
+  },
+  {
+    "code": "HW12136J",
+    "date": "2024-12-06",
+    "distance": "161",
+    "est_time": 1336,
+    "device": "machine2"
+  },
+  {
+    "code": "HW56377B",
+    "date": "2024-12-07",
+    "distance": "155",
+    "est_time": 596,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80530B",
+    "date": "2024-12-07",
+    "distance": "80",
+    "est_time": 1449,
+    "device": "machine2"
+  },
+  {
+    "code": "HW70718X",
+    "date": "2024-12-07",
+    "distance": "51",
+    "est_time": 1096,
+    "device": "machine2"
+  },
+  {
+    "code": "HW16690H",
+    "date": "2024-12-08",
+    "distance": "112",
+    "est_time": 670,
+    "device": "machine2"
+  },
+  {
+    "code": "HW32362F",
+    "date": "2024-12-08",
+    "distance": "145",
+    "est_time": 1116,
+    "device": "machine2"
+  },
+  {
+    "code": "HW4880Y",
+    "date": "2024-12-09",
+    "distance": "79",
+    "est_time": 1248,
+    "device": "machine2"
+  },
+  {
+    "code": "HW62863I",
+    "date": "2024-12-09",
+    "distance": "187",
+    "est_time": 571,
+    "device": "machine2"
+  },
+  {
+    "code": "HW79442V",
+    "date": "2024-12-10",
+    "distance": "173",
+    "est_time": 1140,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50573B",
+    "date": "2024-12-10",
+    "distance": "183",
+    "est_time": 982,
+    "device": "machine2"
+  },
+  {
+    "code": "HW13853C",
+    "date": "2024-12-11",
+    "distance": "144",
+    "est_time": 686,
+    "device": "machine2"
+  },
+  {
+    "code": "HW81155A",
+    "date": "2024-12-11",
+    "distance": "145",
+    "est_time": 608,
+    "device": "machine2"
+  },
+  {
+    "code": "HW50913R",
+    "date": "2024-12-11",
+    "distance": "134",
+    "est_time": 763,
+    "device": "machine2"
+  },
+  {
+    "code": "HW21917P",
+    "date": "2024-12-11",
+    "distance": "183",
+    "est_time": 1112,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87342Y",
+    "date": "2024-12-11",
+    "distance": "164",
+    "est_time": 1001,
+    "device": "machine2"
+  },
+  {
+    "code": "HW95068N",
+    "date": "2024-12-12",
+    "distance": "193",
+    "est_time": 975,
+    "device": "machine2"
+  },
+  {
+    "code": "HW87391V",
+    "date": "2024-12-12",
+    "distance": "118",
+    "est_time": 605,
+    "device": "machine2"
+  },
+  {
+    "code": "HW45978U",
+    "date": "2024-12-13",
+    "distance": "132",
+    "est_time": 732,
+    "device": "machine2"
+  },
+  {
+    "code": "HW9710C",
+    "date": "2024-12-14",
+    "distance": "76",
+    "est_time": 1027,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96949B",
+    "date": "2024-12-14",
+    "distance": "84",
+    "est_time": 505,
+    "device": "machine2"
+  },
+  {
+    "code": "HW59526R",
+    "date": "2024-12-14",
+    "distance": "191",
+    "est_time": 1018,
+    "device": "machine2"
+  },
+  {
+    "code": "HW65241I",
+    "date": "2024-12-14",
+    "distance": "98",
+    "est_time": 746,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92935J",
+    "date": "2024-12-15",
+    "distance": "60",
+    "est_time": 1276,
+    "device": "machine2"
+  },
+  {
+    "code": "HW80009E",
+    "date": "2024-12-15",
+    "distance": "174",
+    "est_time": 1092,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96092F",
+    "date": "2024-12-15",
+    "distance": "69",
+    "est_time": 573,
+    "device": "machine2"
+  },
+  {
+    "code": "HW94043M",
+    "date": "2024-12-15",
+    "distance": "163",
+    "est_time": 995,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98953J",
+    "date": "2024-12-16",
+    "distance": "147",
+    "est_time": 1206,
+    "device": "machine2"
+  },
+  {
+    "code": "HW22015O",
+    "date": "2024-12-16",
+    "distance": "114",
+    "est_time": 1335,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35367D",
+    "date": "2024-12-16",
+    "distance": "53",
+    "est_time": 519,
+    "device": "machine2"
+  },
+  {
+    "code": "HW60577O",
+    "date": "2024-12-17",
+    "distance": "70",
+    "est_time": 1025,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96793L",
+    "date": "2024-12-18",
+    "distance": "98",
+    "est_time": 838,
+    "device": "machine2"
+  },
+  {
+    "code": "HW85876M",
+    "date": "2024-12-19",
+    "distance": "73",
+    "est_time": 872,
+    "device": "machine2"
+  },
+  {
+    "code": "HW75646U",
+    "date": "2024-12-19",
+    "distance": "139",
+    "est_time": 958,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28230E",
+    "date": "2024-12-20",
+    "distance": "141",
+    "est_time": 1347,
+    "device": "machine2"
+  },
+  {
+    "code": "HW63739Z",
+    "date": "2024-12-20",
+    "distance": "73",
+    "est_time": 900,
+    "device": "machine2"
+  },
+  {
+    "code": "HW35292W",
+    "date": "2024-12-21",
+    "distance": "151",
+    "est_time": 1480,
+    "device": "machine2"
+  },
+  {
+    "code": "HW11055N",
+    "date": "2024-12-21",
+    "distance": "58",
+    "est_time": 1200,
+    "device": "machine2"
+  },
+  {
+    "code": "HW15293A",
+    "date": "2024-12-22",
+    "distance": "79",
+    "est_time": 1067,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93622D",
+    "date": "2024-12-23",
+    "distance": "197",
+    "est_time": 1313,
+    "device": "machine2"
+  },
+  {
+    "code": "HW23219X",
+    "date": "2024-12-23",
+    "distance": "50",
+    "est_time": 599,
+    "device": "machine2"
+  },
+  {
+    "code": "HW58361W",
+    "date": "2024-12-23",
+    "distance": "105",
+    "est_time": 513,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31718W",
+    "date": "2024-12-23",
+    "distance": "100",
+    "est_time": 1468,
+    "device": "machine2"
+  },
+  {
+    "code": "HW44062V",
+    "date": "2024-12-23",
+    "distance": "74",
+    "est_time": 1409,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92608L",
+    "date": "2024-12-24",
+    "distance": "184",
+    "est_time": 1177,
+    "device": "machine2"
+  },
+  {
+    "code": "HW25812A",
+    "date": "2024-12-24",
+    "distance": "129",
+    "est_time": 790,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53809R",
+    "date": "2024-12-25",
+    "distance": "162",
+    "est_time": 1174,
+    "device": "machine2"
+  },
+  {
+    "code": "HW77365O",
+    "date": "2024-12-25",
+    "distance": "114",
+    "est_time": 643,
+    "device": "machine2"
+  },
+  {
+    "code": "HW98570I",
+    "date": "2024-12-25",
+    "distance": "99",
+    "est_time": 1086,
+    "device": "machine2"
+  },
+  {
+    "code": "HW39127S",
+    "date": "2024-12-26",
+    "distance": "148",
+    "est_time": 1428,
+    "device": "machine2"
+  },
+  {
+    "code": "HW17483G",
+    "date": "2024-12-26",
+    "distance": "176",
+    "est_time": 901,
+    "device": "machine2"
+  },
+  {
+    "code": "HW53369Z",
+    "date": "2024-12-27",
+    "distance": "59",
+    "est_time": 1303,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93658I",
+    "date": "2024-12-27",
+    "distance": "131",
+    "est_time": 799,
+    "device": "machine2"
+  },
+  {
+    "code": "HW93499Q",
+    "date": "2024-12-27",
+    "distance": "176",
+    "est_time": 856,
+    "device": "machine2"
+  },
+  {
+    "code": "HW31956N",
+    "date": "2024-12-27",
+    "distance": "162",
+    "est_time": 578,
+    "device": "machine2"
+  },
+  {
+    "code": "HW96861P",
+    "date": "2024-12-28",
+    "distance": "168",
+    "est_time": 844,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30386Y",
+    "date": "2024-12-29",
+    "distance": "169",
+    "est_time": 900,
+    "device": "machine2"
+  },
+  {
+    "code": "HW92397J",
+    "date": "2024-12-29",
+    "distance": "148",
+    "est_time": 1385,
+    "device": "machine2"
+  },
+  {
+    "code": "HW71798O",
+    "date": "2024-12-30",
+    "distance": "72",
+    "est_time": 1372,
+    "device": "machine2"
+  },
+  {
+    "code": "HW83510O",
+    "date": "2024-12-30",
+    "distance": "140",
+    "est_time": 758,
+    "device": "machine2"
+  },
+  {
+    "code": "HW30928N",
+    "date": "2024-12-30",
+    "distance": "62",
+    "est_time": 982,
+    "device": "machine2"
+  },
+  {
+    "code": "HW28021X",
+    "date": "2024-12-31",
+    "distance": "194",
+    "est_time": 1283,
+    "device": "machine2"
+  }
+]

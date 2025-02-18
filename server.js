@@ -3,6 +3,7 @@ const express = require('express');
 const http = require('http'); // HTTP 서버 생성
 const WebSocket = require('ws'); // WebSocket 추가
 const machineRoutes = require('./routes/machineRoutes');
+const updateFirmwareRoutes = require("./routes/updateFirmware");
 const { getAllDeviceInfo, updateTemperature } = require('./services/machineService');
 
 const app = express();
@@ -14,11 +15,14 @@ const wss = new WebSocket.Server({ server });
 
 app.use(cors());
 app.use(express.json()); 
+app.use(express.urlencoded({ extended: true })); // 📌 form-data 인식
 app.use('/api/machines', machineRoutes);
+app.use("/api/update-firmware", updateFirmwareRoutes); // 📌 추가
 
 // WebSocket 연결 처리
 wss.on('connection', (ws) => {
-  console.log('✅ WebSocket 클라이언트 연결됨');
+  const connectTime = new Date().toISOString();
+  console.log(`✅ WebSocket 클라이언트 연결됨 [Time: ${connectTime}]`);
 
   const interval = setInterval(() => {
     updateTemperature(); // 모든 `device_info.json`의 온도 업데이트
@@ -76,8 +80,8 @@ wss.on('connection', (ws) => {
   }, 2500);  
 
   ws.on('close', () => {
-    console.log('❌ WebSocket 클라이언트 연결 종료');
-    clearInterval(interval);
+    const disconnectTime = new Date().toISOString();
+    console.log(`❌ WebSocket 클라이언트 연결 종료 [Time: ${disconnectTime}]`);
   });
 });
 

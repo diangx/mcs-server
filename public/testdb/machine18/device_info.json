@@ -1,0 +1,11 @@
+{
+  "name": "High-mast Reach Forklift Type AGV",
+  "macaddr": "c3:5a:62:5f:d3:29",
+  "version": "v1.0.1",
+  "status": "warning",
+  "ipaddr": "124.68.246.191",
+  "battery": 21,
+  "temperature": 120,
+  "effect": 266,
+  "load": 49
+}

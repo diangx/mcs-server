@@ -1,0 +1,11 @@
+{
+  "name": "Pallet Truck Type AGV",
+  "macaddr": "63:b9:c9:6e:6a:a8",
+  "version": "v1.0.1",
+  "status": "warning",
+  "ipaddr": "107.138.139.193",
+  "battery": 1,
+  "temperature": 65,
+  "effect": 55,
+  "load": 88
+}

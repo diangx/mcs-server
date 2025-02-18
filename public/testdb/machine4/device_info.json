@@ -1,0 +1,11 @@
+{
+  "name": "Counter-Balance Forklift Type AGV",
+  "macaddr": "45:4d:31:5c:04:eb",
+  "version": "v1.0.1",
+  "status": "error",
+  "ipaddr": "188.146.110.4",
+  "battery": 27,
+  "temperature": 120,
+  "effect": 62,
+  "load": 72
+}

@@ -1,11 +1,11 @@
 {
-  "name": "Counter-Balance Forklift Type AGV",
-  "macaddr": "1a:c3:9a:81:c4:56",
+  "name": "Pallet Truck Type AGV",
+  "macaddr": "ac:84:e2:6b:23:78",
   "version": "v1.0.1",
-  "status": "error",
-  "ipaddr": "232.74.125.42",
-  "battery": 95,
-  "temperature": 177,
-  "effect": 269,
-  "load": 24
+  "status": "normal",
+  "ipaddr": "171.107.145.184",
+  "battery": 75,
+  "temperature": 94,
+  "effect": 70,
+  "load": 83
 }

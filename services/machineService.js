@@ -54,10 +54,11 @@ function generateMachines(machineCount) {
   for (let i = 1; i <= machineCount; i++) {
     const machineKey = `machine${i}`;
     let machineName = machineNames[Math.floor(Math.random() * machineNames.length)]
+    let macaddress = generateMacAddress()
     const machineData = {
       deviceInfo: {
         name: machineName,
-        macaddr: generateMacAddress(),
+        macaddr: macaddress,
         version: 'v1.0.1',
         status: statusNames[Math.floor(Math.random() * statusNames.length)],
         ipaddr: generateRandomIP(),
@@ -84,7 +85,8 @@ function generateMachines(machineCount) {
           date: date,
           distance: String(Math.floor(Math.random() * 150) + 50),
           est_time: Math.floor(Math.random() * 1000) + 500,
-          device: machineKey
+          name: machineName,
+          macaddress: macaddress
         });
       }
     }

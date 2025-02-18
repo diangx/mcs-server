@@ -1,11 +1,11 @@
 {
-  "name": "Pallet Truck Type AGV",
-  "macaddr": "29:0a:14:ff:8c:ce",
+  "name": "High-mast Reach Forklift Type AGV",
+  "macaddr": "72:29:3b:e2:82:61",
   "version": "v1.0.1",
-  "status": "error",
-  "ipaddr": "186.253.237.62",
-  "battery": 45,
-  "temperature": 53,
-  "effect": 35,
-  "load": 149
+  "status": "warning",
+  "ipaddr": "241.174.49.77",
+  "battery": 69,
+  "temperature": 5,
+  "effect": 91,
+  "load": 45
 }

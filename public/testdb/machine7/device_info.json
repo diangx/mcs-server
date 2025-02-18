@@ -1,11 +1,11 @@
 {
-  "name": "Counter-Balance Forklift Type AGV",
-  "macaddr": "2b:f7:84:ef:6d:9a",
+  "name": "High-mast Reach Forklift Type AGV",
+  "macaddr": "51:54:ed:09:b1:59",
   "version": "v1.0.1",
-  "status": "normal",
-  "ipaddr": "83.170.249.208",
-  "battery": 68,
-  "temperature": 61,
-  "effect": 28,
-  "load": 7
+  "status": "warning",
+  "ipaddr": "211.231.41.232",
+  "battery": 56,
+  "temperature": 28,
+  "effect": 10,
+  "load": 51
 }

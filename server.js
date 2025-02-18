@@ -30,6 +30,18 @@ app.use('/api/machine3_Data', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'machine3/production_and_charge.json'));
 });
 
+app.use('/api/machine1_History', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'machine1/product_info.json'));
+});
+
+app.use('/api/machine2_History', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'machine2/product_info.json'));
+});
+
+app.use('/api/machine3_History', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'machine3/product_info.json'));
+});
+
 // 머신 정보를 요청할 때마다 랜덤 IP와 온도 정보를 반환하는 API 
 // 아래 웹소켓 연결로 변경
 // app.use('/api/status/:machineName', (req, res) => {
